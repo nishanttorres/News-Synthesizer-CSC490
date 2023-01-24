@@ -7,4 +7,4 @@
 Our project _News Synthesizer_ will...
 
 # Resources used
-we are using [ChatGPT](https://openai.com/api/), [Festival](https://www.cstr.ed.ac.uk/projects/festival/manual/festival_toc.html), and [Perigon]( https://docs.goperigon.com/docs)
+We are using [ChatGPT](https://openai.com/api/), [Festival](https://www.cstr.ed.ac.uk/projects/festival/manual/festival_toc.html), and [Perigon]( https://docs.goperigon.com/docs)
