@@ -1,1 +1,1 @@
-# CSC490
+# CSC490 Senior Capstone
