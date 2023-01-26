@@ -1,6 +1,8 @@
 ChatGPT- https://openai.com/api/
 
 example API request for summarizing w/ JSON
+
+```
 {
   "model": "text-davinci-003",
   "prompt": " **Raw news article goes here**\n\nTl;dr",
@@ -10,6 +12,7 @@ example API request for summarizing w/ JSON
   "frequency_penalty": 0.0,
   "presence_penalty": 1
 }
+```
 
 **Can replace tl;dr (too long didn't read) with something like "summarize this in x words or less"
 
