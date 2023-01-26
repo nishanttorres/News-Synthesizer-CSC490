@@ -31,3 +31,5 @@ Perigon- https://docs.goperigon.com/docs
 
 
 C++ GUI- https://youtu.be/vWXrFetSH8w?t=507
+
+Markdown for GitHub- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
