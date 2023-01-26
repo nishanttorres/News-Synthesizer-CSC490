@@ -28,6 +28,7 @@ Festival- https://www.cstr.ed.ac.uk/projects/festival/manual/festival_toc.html
 
 
 Perigon- https://docs.goperigon.com/docs
+Perigon Code snippets- https://docs.goperigon.com/docs/code-samples 
 
 
 C++ GUI- https://youtu.be/vWXrFetSH8w?t=507
