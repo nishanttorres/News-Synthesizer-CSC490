@@ -3,7 +3,7 @@
 **Group name**: *P Sout*
 
  
-**Group Members**: Juan Luna, Matthew Mitchell, Nicholas Ray, Rigoberto Villalpando Razo, & Nishant Sharma
+**Group Members**: Kevin Du, Juan Luna, Matthew Mitchell, Nicholas Ray, Rigoberto Villalpando Razo, & Nishant Sharma
 
 # Our Project
 Our project _News Synthesizer_ will deliver a daily personalized audio news briefing for our users.
