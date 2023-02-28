@@ -7,3 +7,5 @@ wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 Installing node.js
 
 nvm install 18.14.2 or whatever version you want
+
+Once complete you can change your cwd to gui_react and type npm start on the cli
