@@ -1,0 +1,51 @@
+.audio-player .image-audio {
+    max-width: 350px;
+    border-radius: 20px;
+    padding: 24px;
+    box-shadow: 0 28px 28px rgba(0, 0, 0, 0.2);
+    margin: auto;
+    color: var(--white);
+}
+
+button {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.image-audio {
+    border-radius: 8px;
+    display: block;
+    margin: auto;
+    height: 200px;
+    width: 200px;
+}
+
+.progress {
+    display: flex;
+    justify-content: space-between;
+    width: 25%;
+    margin: 0 auto 15px;
+}
+
+.audio-player .prev svg,
+.audio-player .next svg,
+.audio-player .play svg,
+.audio-player .pause svg {
+    display: flex;
+    justify-content: space-between;
+    width: 75%;
+    margin: 5 auto 5px;
+}
+
+.audio-player .back15 svg,
+.audio-player .skip15 svg {
+    width: 40px;
+    height: 40px;
+}
+
+.audio-player .play svg,
+.audio-player .pause svg {
+    height: 40px;
+    width: 40px;
+}
