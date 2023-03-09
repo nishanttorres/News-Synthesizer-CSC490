@@ -1,0 +1,1736 @@
+[
+    {
+        "url": "https://theconversation.com/uni-students-have-had-to-be-vaccinated-against-other-diseases-covid-19-is-no-different-166103",
+        "authorsByline": "Peter D. Blanck Paul Harpur",
+        "articleId": "2fc7a02d52b14b158c7a7d50cf49a899",
+        "clusterId": "254d48a01acc41c48cc8ee30b4f1d613",
+        "source": {
+            "domain": "theconversation.com"
+        },
+        "imageUrl": "https://images.theconversation.com/files/417116/original/file-20210820-13-1albo8g.jpg?ixlib=rb-1.1.0&rect=0%2C1311%2C4832%2C2416&q=45&auto=format&w=1356&h=668&fit=crop",
+        "country": "",
+        "language": "en",
+        "pubDate": "2021-08-22T20:05:55+00:00",
+        "addDate": "2021-08-24T18:14:35.557860+00:00",
+        "refreshDate": "2021-08-24T18:14:35.557860+00:00",
+        "score": 1.0,
+        "title": "Uni students have had to be vaccinated against other diseases \u2014 COVID-19 is no different",
+        "description": "Uni students have had to be vaccinated against other diseases \u2014 COVID-19 is no different  The Conversation AU",
+        "content": "Should universities require students to be fully vaccinated against COVID-19 before attending campus once vaccines are readily available in Australia?\n\nProfessor Iain Martin, vice-chancellor of Deakin University and former dean of the Faculty of Medical and Health Sciences at the University of Auckland, says yes.\n\nCampus life is filled with potential super-spreader events. Students attend lectures, seminars, social events and industry functions.\n\nRead more: 'Campus covid' was as inevitable as freshers' flu \u2013 here's how universities can look after their students\n\nStudent immunisation and screening requirements existed for certain courses before the pandemic. COVID-19 vaccinations are now required for students in certain circumstances. They include those who enter premises that have government-driven mandatory vaccination requirements, such as restricted vulnerable facilities. Examples include hospitals, residential aged care, disability accommodation services and correctional centres.\n\nUntil now, Australian universities have not sought to mandate COVID-19 vaccinations for all students. However, Martin says:\n\nIn response, National Union of Students president Zoe Ranganathan accepted the importance of vaccinations, but called for a less \u201cpunitive\u201d approach.\n\nIn Canada, some have suggested mandatory vaccinations should apply only to students on campus. Those who refuse to get vaccinated \u201cshould be offered online alternatives\u201d.\n\nRead more: Mandatory COVID-19 vaccines on university campuses: An obvious solution or a problem?\n\nUniversities also need to consider their duty to staff. There are work health and safety implications of permitting unvaccinated students to potentially bring COVID-19 to campus.\n\nVaccination \u201csignificantly reduces the risk of getting COVID-19 from all known variants\u201d. Thus, it will reduce the risk of COVID-19 spreading on campus.\n\nBecause of their age, most university students have been less vulnerable to COVID-19. However, new variants of the virus are increasing the risk to people of all ages.\n\nAnd not every university student has robust health. Staff and students can have disabilities or medical conditions that make them unable to be vaccinated or especially vulnerable if they catch the virus.\n\nUniversities should take steps to ensure vulnerable members of their community are not exposed to COVID-19 on campus. Mandatory vaccination is one way to ensure this.\n\nRead more: No big packed lectures allowed if we're to safely bring uni students back to campus\n\nUniversity leadership must balance public health and opinion, along with the risk of permitting potentially unsafe students onto campus. It appears an overwhelming number of Australians support mandatory vaccines. Researchers at the universities of Sydney and Western Australia found three-quarters of Australians would support a mandatory COVID-19 vaccination policy for travel, study and work.\n\nAnother consideration for universities is international students, whose fees subsidise affordable public education and research and innovation. Prior to COVID-19, 32% of university students in Australia were full-fee-paying international students. International students also bring in billions to the Australian economy.\n\nRead more: As hopes of international students' return fade, closed borders could cost $20bn a year in 2022 \u2013 half the sector's value\n\nWhereas Australia has until now been largely free from COVID-19, many countries across Asia, Europe, Latin America and North America have been hit hard by the pandemic. If Australia is to open up to students from these countries, mandatory vaccinations will make Australia a safer destination and more attractive for a customer base who have lived through a nightmare.\n\nA recent IDP Connect survey found an overwhelming majority of international students were already vaccinated or willing to be vaccinated to return to campuses.\n\nThus, both the economic and public health grounds for mandatory vaccination of students on campus are compelling.\n\nRead more: Australia's international education market share is shrinking fast. Recovery depends on unis offering students a better deal\n\nWhile the mandatory vaccination debate is new in Australian universities, it has attracted more attention overseas.\n\nIn Canada some universities, including Ottawa and Toronto, are mandating vaccinations. Others, such as the University of Calgary, are being criticised for not mandating vaccinations for students before they attend class.\n\nOver 730 colleges in the United States have made vaccination mandatory. These universities include Columbia, Harvard, Princeton, Stanford, UCLA, and Yale.\n\nRead more: Campus outbreaks of COVID-19 were almost guaranteed\n\nThe US mandates have led to unsuccessful legal challenges. Students challenged Indiana University\u2019s mandatory vaccination policy, claiming it interfered with their due process rights to bodily integrity. In August 2021, US Supreme Court Justice Amy Coney Barrett rejected the students\u2019 request for emergency relief.\n\nThe US Court of Appeals for the Seventh Circuit had unanimously declined to issue an injunction while the students\u2019 appeal moved forward to the Supreme Court. The appeals court noted:\n\nThe authors would like to recognise the support of Georgia Atcheson.",
+        "medium": "Article",
+        "labels": [],
+        "matchedAuthors": [],
+        "claim": "",
+        "verdict": "",
+        "keywords": [
+            {
+                "name": "university students",
+                "weight": 0.108416095
+            },
+            {
+                "name": "COVID-19 vaccination",
+                "weight": 0.10792308
+            },
+            {
+                "name": "International students",
+                "weight": 0.1034219
+            },
+            {
+                "name": "international students",
+                "weight": 0.1034219
+            },
+            {
+                "name": "most university students",
+                "weight": 0.10218195
+            },
+            {
+                "name": "Students",
+                "weight": 0.10164246
+            },
+            {
+                "name": "students",
+                "weight": 0.10164246
+            },
+            {
+                "name": "unvaccinated students",
+                "weight": 0.09993968
+            },
+            {
+                "name": "uni students",
+                "weight": 0.09892976
+            },
+            {
+                "name": "Mandatory COVID-19 vaccines",
+                "weight": 0.09468109
+            }
+        ],
+        "topics": [
+            {
+                "name": "Coronavirus"
+            }
+        ],
+        "categories": [],
+        "entities": [
+            {
+                "data": "Australian",
+                "type": "NORP",
+                "mentions": 5
+            },
+            {
+                "data": "uni",
+                "type": "NORP",
+                "mentions": 1
+            },
+            {
+                "data": "COVID-19 vaccination",
+                "type": "LAW",
+                "mentions": 1
+            },
+            {
+                "data": "COVID-19,",
+                "type": "LAW",
+                "mentions": 1
+            },
+            {
+                "data": "US Supreme Court",
+                "type": "ORG",
+                "mentions": 3
+            },
+            {
+                "data": "Deakin University",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "the Faculty of Medical and Health Sciences",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "the University of Auckland",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "National Union of Students",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "IDP Connect",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "unis",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "the University of Calgary",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Columbia",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Harvard",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Princeton",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Stanford",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "UCLA",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Yale",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Indiana University\u2019s",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "the Seventh Circuit",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Australia",
+                "type": "GPE",
+                "mentions": 6
+            },
+            {
+                "data": "Canada",
+                "type": "GPE",
+                "mentions": 2
+            },
+            {
+                "data": "the United States",
+                "type": "GPE",
+                "mentions": 2
+            },
+            {
+                "data": "Sydney",
+                "type": "GPE",
+                "mentions": 1
+            },
+            {
+                "data": "Western Australia",
+                "type": "GPE",
+                "mentions": 1
+            },
+            {
+                "data": "Ottawa",
+                "type": "GPE",
+                "mentions": 1
+            },
+            {
+                "data": "Toronto",
+                "type": "GPE",
+                "mentions": 1
+            },
+            {
+                "data": "Iain Martin",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Martin",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Zoe Ranganathan",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Amy Coney Barrett",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Georgia Atcheson",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Asia",
+                "type": "LOC",
+                "mentions": 1
+            },
+            {
+                "data": "Europe",
+                "type": "LOC",
+                "mentions": 1
+            },
+            {
+                "data": "Latin America",
+                "type": "LOC",
+                "mentions": 1
+            },
+            {
+                "data": "North America",
+                "type": "LOC",
+                "mentions": 1
+            }
+        ],
+        "sentiment": {
+            "positive": 0.06365782,
+            "negative": 0.12120256,
+            "neutral": 0.8151396
+        },
+        "summary": "Researchers at the universities of Sydney and Western Australia found three-quarters of Australians would support a mandatory COVID-19 vaccination policy for travel, study and work. \n\nAnother consideration for universities is international students, whose fees subsidise affordable public education and research and innovation. Prior to COVID-19, 32% of university students in Australia were full-fee-paying international students. \n\nA recent IDP Connect survey found an overwhelming majority of international students were already vaccinated or willing to be vaccinated to return to campuses.",
+        "translation": "",
+        "locations": [],
+        "reprint": false,
+        "places": null
+    },
+    {
+        "url": "https://timesuniononline.com/Content/Local-News/Local-News/Article/The-Annual-Heirloom-Tomato-Festival-In-Pierceton-Is-Saturday/2/453/134794",
+        "authorsByline": "",
+        "articleId": "bf9786faa9f4411aa4b0cabbb1019809",
+        "clusterId": "053a4f2f8cd44a4d8129e7387685d890",
+        "source": {
+            "domain": "timesuniononline.com"
+        },
+        "imageUrl": "http://timesuniononline.com/Images/Images/224626.jpg",
+        "country": "us",
+        "language": "en",
+        "pubDate": "2021-08-22T20:05:58+00:00",
+        "addDate": "2021-08-24T18:14:35.558779+00:00",
+        "refreshDate": "2021-08-24T18:14:35.558779+00:00",
+        "score": 1.0,
+        "title": "The Annual Heirloom Tomato Festival In Pierceton Is Saturday",
+        "description": "The Annual Heirloom Tomato Festival In Pierceton Is Saturday  Times-Union Newspaper",
+        "content": "PIERCETON \u2013 The 14th Annual Heirloom Tomato Festival will be from 10 a.m. to 4 p.m. Saturday at Brower Park and the Old Train Depot in downtown Pierceton.\n\n\n\n The 5K Run/Walk registration will be 8 to 8:40 a.m. Saturday, with the race starting at 9 a.m. Cost is $20 and awards will be given.\n\n\n\n The Question-And-Answer Booth will be inside the Old Train Depot. Kim Lund, seed steward, will be on hand from 10 to 11:30 a.m., noon to 1 p.m. and 2:30 to 3 p.m. Author Richard Rose will be there from 1:30 to 2:30 p.m. \n\n\n\n Rose grew up in Kokomo and resides in northern Indiana part of the year. His first mystery novel, \u201cThe Satyr Candidate,\u201d was published in 1979. After writing many screenplays, his next novel, \u201cThe Lazarus Conspiracies,\u201d was published in 2013 by Savant Books and Publications, according to a news release. This novel won a fiction award at the 2015 Pacific Rim Book Festival in Hollywood. Rose followed next with a mystery novel set in 1947 Chicago titled \u201cThe Gumshoe.\u201d A sequel to Lazarus, \u201cRetribution,\u201d will be published soon.\n\n\n\n Lund is an avid seed collector and has more than 4,000 varieties from all over the world, including some of the rarest seeds in the United States. Her collection of seeds contains more than 630 varieties from Italy and some rare family heirloom seeds from Romania, according to a news release from Festival organizers. Lund is a noted seed steward and was gifted a collection of seeds by Martin Longseth, a longtime seed steward. A seed steward preserves and shares seeds to ensure agricultural diversity of regional seeds for future generations, the release states.\n\n\n\n Enjoy live entertainment on the main stage in Brower Park. From 10 to 11 a.m., Jared Pagan will perform country, pop and rock. Deb Collier\u2019s Class Act Dance Troupe performs from 11 to 11:45 a.m. \n\n\n\n The public can enjoy the pop classic music duo of Basket Case from 11:45 a.m. to 1:30 p.m., followed by All Gone Blue from 2 to 4 p.m. performing American country and rock. \n\n\n\n There will be plenty of free events throughout the day in Brower Park and inside the Old Train Depot. Those include an heirloom tomato exhibit, tomato tasting, Tag Art Entertainers with a stilt-walking farmer and human statues, a free activity area for children, tomato slingshot game, weaving demonstrations and a chain saw carving demonstration. \n\n\n\n At the gallery at 130 N. First St., Pierceton, will be the annual agricultural art show. Entries will only be accepted Friday, Aug. 27 from 4 to 8 p.m. at the Whitko Art Museum and Galleries, at 130 N. First St., Pierceton. There will be two age groups, youth and adult. Display of art work begins Saturday during the Heirloom Tomato Festival. Winners will be announced at 3 p.m. during the festival. One artist will receive The People\u2019s Choice Award. Cost is $5 per entry, and there is no limit on size or number of entries. \n\n\n\n For questions, call 574-797-3033 or email visitpierceton@yahoo.com.\n\n\n\n The tomato-eating contest will take place at 2:30 p.m. at Brower Park. Prizes will be awarded.\n\n\n\n Judging for the baking contest will take place at 1 p.m. inside the Old Train Depot.\n\n\n\n All baked items must include a tomato ingredient. The entry must be homemade by the contestant entering the item. Contestants may enter more than one item. Nothing cream based or that needs refrigerated will be accepted. Contestant must be present to win. There is no entry fee. Prizes will be awarded. Judging will be based on overall appearance, creativity, taste and texture. \n\n\n\n Bring in your heaviest tomato to enter the Largest Tomato Contest inside the Old Train Depot. Prize will be awarded.\n\n\n\n And bring in your ugliest tomato worm for The Big, Bad and the Ugly (Tomato Worm) Contest. The contest will be inside the Old Train Depot. Prize will be awarded.\n\n\n\n Food vendors for the 2021 Heirloom Tomato Festival include homemade ice cream, kettle corn, fried green tomatoes, ham and beans, BLT sandwiches, tomato sandwiches, sassy vegan, Shenanigans, Big C BBQ, cobblers and produce/farmers market vendors. \n\n\n\n There also will be arts and crafts vendors.\n\n\n\n For more information, find the festival on Facebook at Heirloom Tomato Festival or www.piercetonchamber.com.",
+        "medium": "Article",
+        "labels": [],
+        "matchedAuthors": [],
+        "claim": "",
+        "verdict": "",
+        "keywords": [
+            {
+                "name": "downtown Pierceton",
+                "weight": 0.09441597
+            },
+            {
+                "name": "Heirloom Tomato Festival",
+                "weight": 0.089642935
+            },
+            {
+                "name": "Pierceton",
+                "weight": 0.08257203
+            },
+            {
+                "name": "Festival organizers",
+                "weight": 0.08027432
+            },
+            {
+                "name": "weaving demonstrations",
+                "weight": 0.07904429
+            },
+            {
+                "name": "tomato sandwiches",
+                "weight": 0.073033415
+            },
+            {
+                "name": "Festival",
+                "weight": 0.07287466
+            },
+            {
+                "name": "Pacific Rim Book Festival",
+                "weight": 0.06929316
+            },
+            {
+                "name": "seed steward",
+                "weight": 0.069290206
+            },
+            {
+                "name": "regional seeds",
+                "weight": 0.06917175
+            }
+        ],
+        "topics": [],
+        "categories": [],
+        "entities": [
+            {
+                "data": "The Satyr Candidate",
+                "type": "WORK_OF_ART",
+                "mentions": 1
+            },
+            {
+                "data": "The Lazarus Conspiracies",
+                "type": "WORK_OF_ART",
+                "mentions": 1
+            },
+            {
+                "data": "The Gumshoe",
+                "type": "WORK_OF_ART",
+                "mentions": 1
+            },
+            {
+                "data": "Retribution",
+                "type": "WORK_OF_ART",
+                "mentions": 1
+            },
+            {
+                "data": "All Gone Blue",
+                "type": "WORK_OF_ART",
+                "mentions": 1
+            },
+            {
+                "data": "Tag Art Entertainers",
+                "type": "WORK_OF_ART",
+                "mentions": 1
+            },
+            {
+                "data": "The People\u2019s Choice Award",
+                "type": "WORK_OF_ART",
+                "mentions": 1
+            },
+            {
+                "data": "The Big, Bad and the Ugly (Tomato Worm) Contest",
+                "type": "WORK_OF_ART",
+                "mentions": 1
+            },
+            {
+                "data": "Heirloom Tomato Festival",
+                "type": "EVENT",
+                "mentions": 4
+            },
+            {
+                "data": "5K",
+                "type": "EVENT",
+                "mentions": 1
+            },
+            {
+                "data": "Pacific Rim Book Festival",
+                "type": "EVENT",
+                "mentions": 1
+            },
+            {
+                "data": "Festival",
+                "type": "EVENT",
+                "mentions": 1
+            },
+            {
+                "data": "the Largest Tomato Contest",
+                "type": "EVENT",
+                "mentions": 1
+            },
+            {
+                "data": "American",
+                "type": "NORP",
+                "mentions": 1
+            },
+            {
+                "data": "Savant Books and Publications",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Class Act Dance Troupe",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Basket Case",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "the Old Train Depot",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "the Whitko Art Museum and Galleries",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Shenanigans",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Big C BBQ",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "PIERCETON",
+                "type": "GPE",
+                "mentions": 4
+            },
+            {
+                "data": "Kokomo",
+                "type": "GPE",
+                "mentions": 1
+            },
+            {
+                "data": "Indiana",
+                "type": "GPE",
+                "mentions": 1
+            },
+            {
+                "data": "Hollywood",
+                "type": "GPE",
+                "mentions": 1
+            },
+            {
+                "data": "Chicago",
+                "type": "GPE",
+                "mentions": 1
+            },
+            {
+                "data": "the United States",
+                "type": "GPE",
+                "mentions": 1
+            },
+            {
+                "data": "Italy",
+                "type": "GPE",
+                "mentions": 1
+            },
+            {
+                "data": "Romania",
+                "type": "GPE",
+                "mentions": 1
+            },
+            {
+                "data": "the Old Train Depot",
+                "type": "FAC",
+                "mentions": 5
+            },
+            {
+                "data": "Brower Park",
+                "type": "FAC",
+                "mentions": 4
+            },
+            {
+                "data": "N. First St.,",
+                "type": "FAC",
+                "mentions": 2
+            },
+            {
+                "data": "Rose",
+                "type": "PERSON",
+                "mentions": 2
+            },
+            {
+                "data": "Lund",
+                "type": "PERSON",
+                "mentions": 2
+            },
+            {
+                "data": "Kim Lund",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Richard Rose",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Lazarus",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Martin Longseth",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Jared Pagan",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Deb Collier\u2019s",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "10 a.m. to 4 p.m.",
+                "type": "TIME",
+                "mentions": 7
+            },
+            {
+                "data": "8 to 8:40 a.m.",
+                "type": "TIME",
+                "mentions": 3
+            },
+            {
+                "data": "1:30 p.m.",
+                "type": "TIME",
+                "mentions": 3
+            },
+            {
+                "data": "noon to 1 p.m.",
+                "type": "TIME",
+                "mentions": 2
+            },
+            {
+                "data": "9 a.m.",
+                "type": "TIME",
+                "mentions": 1
+            }
+        ],
+        "sentiment": {
+            "positive": 0.036736336,
+            "negative": 0.027232666,
+            "neutral": 0.93603104
+        },
+        "summary": "The 14th Annual Heirloom Tomato Festival will be from 10 a.m. to 4 p.m. Saturday at Brower Park and the Old Train Depot in downtown Pierceton. Her collection of seeds contains more than 630 varieties from Italy and some rare family heirloom seeds from Romania, according to a news release from Festival organizers. \n\n\n\n Food vendors for the 2021 Heirloom Tomato Festival include homemade ice cream, kettle corn, fried green tomatoes, ham and beans, BLT sandwiches, tomato sandwiches, sassy vegan, Shenanigans, Big C BBQ, cobblers and produce/farmers market vendors. \n\n\n\n For more information, find the festival on Facebook at Heirloom Tomato Festival or www.piercetonchamber.com.",
+        "translation": "",
+        "locations": [],
+        "reprint": false,
+        "places": null
+    },
+    {
+        "url": "https://kuriren.nu/artikel/renpmw5r",
+        "authorsByline": "",
+        "articleId": "8761147d6f7242e4bf041222423b77df",
+        "clusterId": "2c87cd08688b48a496cd82828edfecdb",
+        "source": {
+            "domain": "kuriren.nu"
+        },
+        "imageUrl": "https://dms-api.ntm.eu/api/v1/images/jon6e48l/ratio/rw/3/rh/2/width/1200",
+        "country": "se",
+        "language": "da",
+        "pubDate": "2021-08-21T04:49:48+00:00",
+        "addDate": "2021-08-24T18:14:35.559805+00:00",
+        "refreshDate": "2021-08-24T18:14:35.559805+00:00",
+        "score": 1.0,
+        "title": "Stillast\u00e5ende \"Jack\" i v\u00e4lsydd 1990-talsskrud \u2013 Kuriren",
+        "description": "Hannes Fossbo debuterar med en imponerande men statisk roman om ruffigt V\u00c3\u00a4rmd\u00c3\u00b6.",
+        "content": "",
+        "medium": "Article",
+        "labels": [],
+        "matchedAuthors": [],
+        "claim": "",
+        "verdict": "",
+        "keywords": [],
+        "topics": [],
+        "categories": [],
+        "entities": [],
+        "summary": "",
+        "translation": "",
+        "locations": [],
+        "reprint": false,
+        "places": null
+    },
+    {
+        "url": "https://extra.ie/2021/08/22/property/louise-mcsharry-redecorated-family-home",
+        "authorsByline": "",
+        "articleId": "b121129c0c1247b69a86804a353d40e5",
+        "clusterId": "5f010281e31045568954fb95a2b73d62",
+        "source": {
+            "domain": "extra.ie"
+        },
+        "imageUrl": "https://cdn.extra.ie/wp-content/uploads/2021/08/15133058/louise-mcsharry-feat.jpg",
+        "country": "us",
+        "language": "en",
+        "pubDate": "2021-08-22T19:56:48+00:00",
+        "addDate": "2021-08-24T18:14:35.560052+00:00",
+        "refreshDate": "2021-08-24T18:14:35.560052+00:00",
+        "score": 1.0,
+        "title": "Louise McSharry gives glimpse of redecorated family home",
+        "description": "Louise McSharry gives glimpse of redecorated family home  Extra.ie",
+        "content": "Louise McSharry has shared a glimpse of her recent home renovation \u2014 and it\u2019s a huge thumbs up from the RTE DJ\u2019s Instagram followers.\n\nLouise has lived in her Dublin home with husband Gordon and sons Sam and Ted for seven years, but said the property had \u2018never really felt like me\u2019.\n\nShe was eager to freshen up what she described as a \u2018magnolia\u2019 box and has now made over her kitchen and dining room as part of a collaboration with paint makers Dulux.\n\n\u2018While magnolia has a time and place, I desperately wanted some colour on the walls and to make it feel more zoned,\u2019 she wrote on Instagram.\n\nThe refreshed room has now been \u2018zoned\u2019 using contrasting colours, with each area designed for different functions.\n\nThe area behind (and above) the dining table has been painted in denim blue, standing out from the rest of the room, which has been done in a refreshing peach colour.\n\n\u2018It makes that feel like a section and I love it. I think it will also be a perfect frame for our art,\u2019 Louise said of the blue.\n\n\u2018I\u2019m obsessed with this peach colour which changes throughout the day, as I type it looks much paler than it appears in this picture.\n\n\u2018Gordon says it reminds him of that beautiful light that comes in the window at sunrise and sunset and I think he\u2019s exactly right. I\u2019d honestly paint my entire house with it!\u2019\n\nThe likes of Thalia Heffernan and Tara Stewart joined Louise\u2019s followers in admiring the new look, so it\u2019s definitely a job well done.",
+        "medium": "Article",
+        "labels": [],
+        "matchedAuthors": [],
+        "claim": "",
+        "verdict": "",
+        "keywords": [
+            {
+                "name": "contrasting colours",
+                "weight": 0.10633183
+            },
+            {
+                "name": "dining room",
+                "weight": 0.08701057
+            },
+            {
+                "name": "different functions",
+                "weight": 0.07702703
+            },
+            {
+                "name": "Instagram",
+                "weight": 0.076395646
+            },
+            {
+                "name": "paint makers Dulux",
+                "weight": 0.070158035
+            },
+            {
+                "name": "a refreshing peach colour",
+                "weight": 0.069228426
+            },
+            {
+                "name": "husband Gordon",
+                "weight": 0.06593412
+            },
+            {
+                "name": "this peach colour",
+                "weight": 0.061331373
+            },
+            {
+                "name": "Gordon",
+                "weight": 0.060584404
+            },
+            {
+                "name": "denim blue",
+                "weight": 0.059520166
+            }
+        ],
+        "topics": [],
+        "categories": [],
+        "entities": [
+            {
+                "data": "Instagram",
+                "type": "ORG",
+                "mentions": 2
+            },
+            {
+                "data": "RTE",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Dulux",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Dublin",
+                "type": "GPE",
+                "mentions": 1
+            },
+            {
+                "data": "Louise",
+                "type": "PERSON",
+                "mentions": 3
+            },
+            {
+                "data": "Louise McSharry",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Gordon",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Sam",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Ted",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Thalia Heffernan",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Tara Stewart",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "sunrise",
+                "type": "TIME",
+                "mentions": 1
+            }
+        ],
+        "sentiment": {
+            "positive": 0.09765607,
+            "negative": 0.024537737,
+            "neutral": 0.8778061
+        },
+        "summary": "\n\nLouise has lived in her Dublin home with husband Gordon and sons Sam and Ted for seven years, but said the property had \u2018never really felt like me\u2019. \n\nShe was eager to freshen up what she described as a \u2018magnolia\u2019 box and has now made over her kitchen and dining room as part of a collaboration with paint makers Dulux.\n\n\u2018While magnolia has a time and place, I desperately wanted some colour on the walls and to make it feel more zoned,\u2019 she wrote on Instagram.\n\nThe refreshed room has now been \u2018zoned\u2019 using contrasting colours, with each area designed for different functions. \n\nThe area behind (and above) the dining table has been painted in denim blue, standing out from the rest of the room, which has been done in a refreshing peach colour.\n\n\u2018It makes that feel like a section and I love it. I think it will also be a perfect frame for our art,\u2019 Louise said of the blue.\n\n\u2018I\u2019m obsessed with this peach colour which changes throughout the day, as I type it looks much paler than it appears in this picture.\n\n\u2018Gordon says it reminds him of that beautiful light that comes in the window at sunrise and sunset and I think he\u2019s exactly right.",
+        "translation": "",
+        "locations": [],
+        "reprint": false,
+        "places": null
+    },
+    {
+        "url": "https://www.nbcsports.com/northwest/portland-thorns/morgan-weaver-scores-game-winning-goal-womens-international-champions-cup",
+        "authorsByline": "Dylan Mickanen",
+        "articleId": "bcd8567f490945799f3ed8dadfab6b55",
+        "clusterId": "554ba116d7464196932d49afeda032b7",
+        "source": {
+            "domain": "nbcsports.com"
+        },
+        "imageUrl": "https://www.nbcsports.com/sites/rsnunited/files/styles/metatags_opengraph/public/article/hero/USATSI_16607281_168393342_lowres.jpeg?h=94e9308d",
+        "country": "us",
+        "language": "en",
+        "pubDate": "2021-08-22T20:07:37+00:00",
+        "addDate": "2021-08-24T18:14:35.560588+00:00",
+        "refreshDate": "2021-08-24T18:14:35.560588+00:00",
+        "score": 1.0,
+        "title": "Morgan Weaver scores game-winning goal in Women\u2019s International Champions Cup final",
+        "description": "Morgan Weaver scores game-winning goal in Women\u2019s International Champions Cup final  NBC Sports",
+        "content": "In the 87th minute of the Women\u2019s International Champions Cup championship against French club Olympique Lyonnais, Morgan Weaver made a run that proved to be the difference-maker.\n\nShe collected the ball from Christen Westphal from within the box while Lyon's keeper misread the ball placement, allowing the former No. 2 overall pick to sneak the ball in the far, bottom corner of the net.\n\nWeaver had subbed onto the pitch in the 82nd minute in her first action since missing extended time with an injury. Five minutes later, she earned the breakthrough and eventual game-winner.\n\n\"I think it's just the mentality that everyone has on this team that we want to win,\" Weaver said. \"If it's your moment it's your moment, and if it's not, you're still in the moment with the team, and that's all that really matters.\"\n\nWith the win, Portland became the second United States club team to win the Women\u2019s ICC tournament. In fact, this was the first time Thorns FC played a European club in its history.\n\nWhen the club hoisted the WICC trophy at Providence Park, it was the sixth trophy in franchise history and second in 2021 alone.\n\nCrystal Dunn, Lindsey Horan, and Christine Sinclair all made their first appearances since returning from the Tokyo 2020 Olympics as second half substitutes.\n\nNext, it's back to NWSL play with Portland hosting NJ/NY Gotham FC at Providence Park at 7:30 p.m. PST on Wednesday, August 25th.",
+        "medium": "Article",
+        "labels": [],
+        "matchedAuthors": [],
+        "claim": "",
+        "verdict": "",
+        "keywords": [
+            {
+                "name": "second half substitutes",
+                "weight": 0.11400556
+            },
+            {
+                "name": "French club Olympique Lyonnais",
+                "weight": 0.09656562
+            },
+            {
+                "name": "second",
+                "weight": 0.092331626
+            },
+            {
+                "name": "the second United States club team",
+                "weight": 0.08110518
+            },
+            {
+                "name": "August 25th",
+                "weight": 0.08043004
+            },
+            {
+                "name": "Morgan Weaver",
+                "weight": 0.07881952
+            },
+            {
+                "name": "franchise history",
+                "weight": 0.07871881
+            },
+            {
+                "name": "Providence Park",
+                "weight": 0.07739115
+            },
+            {
+                "name": "United States",
+                "weight": 0.070060335
+            },
+            {
+                "name": "Olympique Lyonnais",
+                "weight": 0.06660014
+            }
+        ],
+        "topics": [],
+        "categories": [
+            {
+                "name": "Sports"
+            }
+        ],
+        "entities": [
+            {
+                "data": "International Champions Cup",
+                "type": "EVENT",
+                "mentions": 1
+            },
+            {
+                "data": "the Women\u2019s ICC tournament",
+                "type": "EVENT",
+                "mentions": 1
+            },
+            {
+                "data": "the Tokyo 2020 Olympics",
+                "type": "EVENT",
+                "mentions": 1
+            },
+            {
+                "data": "French",
+                "type": "NORP",
+                "mentions": 1
+            },
+            {
+                "data": "European",
+                "type": "NORP",
+                "mentions": 1
+            },
+            {
+                "data": "Portland",
+                "type": "ORG",
+                "mentions": 2
+            },
+            {
+                "data": "Olympique Lyonnais",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Lyon",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Thorns FC",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "WICC",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "NWSL",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "NJ/NY Gotham FC",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "United States",
+                "type": "GPE",
+                "mentions": 1
+            },
+            {
+                "data": "Providence Park",
+                "type": "FAC",
+                "mentions": 2
+            },
+            {
+                "data": "Weaver",
+                "type": "PERSON",
+                "mentions": 2
+            },
+            {
+                "data": "Morgan Weaver",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Christen Westphal",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Lindsey Horan",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Christine Sinclair",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "the 87th minute",
+                "type": "TIME",
+                "mentions": 2
+            },
+            {
+                "data": "Five minutes later",
+                "type": "TIME",
+                "mentions": 1
+            },
+            {
+                "data": "7:30 p.m. PST",
+                "type": "TIME",
+                "mentions": 1
+            }
+        ],
+        "sentiment": {
+            "positive": 0.11777024,
+            "negative": 0.056117937,
+            "neutral": 0.82611185
+        },
+        "summary": "In the 87th minute of the Women\u2019s International Champions Cup championship against French club Olympique Lyonnais, Morgan Weaver made a run that proved to be the difference-maker. \n\nWith the win, Portland became the second United States club team to win the Women\u2019s ICC tournament. \n\nWhen the club hoisted the WICC trophy at Providence Park, it was the sixth trophy in franchise history and second in 2021 alone. \n\nCrystal Dunn, Lindsey Horan, and Christine Sinclair all made their first appearances since returning from the Tokyo 2020 Olympics as second half substitutes.",
+        "translation": "",
+        "locations": [],
+        "reprint": false,
+        "places": null
+    },
+    {
+        "url": "https://www.broadcastprome.com/videos/yooncompany-introduces-bubble-up/",
+        "authorsByline": "",
+        "articleId": "8c5f80bd107b4c79ad9783413cc7697b",
+        "clusterId": "300b3574576646368c080b74a5846fd1",
+        "source": {
+            "domain": "broadcastprome.com"
+        },
+        "imageUrl": "https://www.broadcastprome.com/wp-content/uploads/2021/08/Bubble-Up.jpg",
+        "country": "us",
+        "language": "en",
+        "pubDate": "2021-08-22T20:01:36+00:00",
+        "addDate": "2021-08-24T18:14:35.561261+00:00",
+        "refreshDate": "2021-08-24T18:14:35.561261+00:00",
+        "score": 1.0,
+        "title": "Yoon&Company introduces 'Bubble Up'",
+        "description": "Yoon&Company introduces 'Bubble Up'  BroadcastProME.com",
+        "content": "Show title: Bubble Up\n\n Run time: 10\u00d715\u2019\n\n Director: Soochul Park\n\n Producer: Jong-ho Yoon\n\n Cast: Sohee (Nature), Youngbin (SF9)\n\n Exec Producer: Jaemin Ryu\n\n Writer: Saeyoung\n\n Genre: Drama\n\n Demographics: 10-20\n\n Full synopsis: Hayoung decides to not go to college after high school but start working to live different life. She gets a job in Bubble TV, the famous streaming platform. But the joy of getting a job didn\u2019t last long. On the first day at work Hayoung encounters the meanest boss ever. The work is challenging but Hayoung never gives up on her dream of being a pro streamer. How can she find a balance between hard work and her dream?\n\nCompany name: Yoon&Company Inc.\n\n Company Profile:\n\n Yoon&Company Inc. was established in September 2016 by Yoon Jong-Ho who was the formal CEO of Everyshow Inc.. As a multimedia entertainment company, Yoon&Company Inc. is producing and licensing a variety of TV shows from drama, movie to documentary networking mainly with Amazon, Hulu, etc..",
+        "medium": "Article",
+        "labels": [],
+        "matchedAuthors": [],
+        "claim": "",
+        "verdict": "",
+        "keywords": [
+            {
+                "name": "Everyshow Inc",
+                "weight": 0.11439639
+            },
+            {
+                "name": "different life",
+                "weight": 0.10077819
+            },
+            {
+                "name": "Yoon&Company Inc.",
+                "weight": 0.08833502
+            },
+            {
+                "name": "Hulu",
+                "weight": 0.08360626
+            },
+            {
+                "name": "TV shows",
+                "weight": 0.075809084
+            },
+            {
+                "name": "Saeyoung",
+                "weight": 0.069512665
+            },
+            {
+                "name": "Bubble Up",
+                "weight": 0.06896512
+            },
+            {
+                "name": "Yoon Jong-Ho",
+                "weight": 0.068237305
+            },
+            {
+                "name": "high school",
+                "weight": 0.06746053
+            },
+            {
+                "name": "Company Profile",
+                "weight": 0.06708748
+            }
+        ],
+        "topics": [],
+        "categories": [],
+        "entities": [
+            {
+                "data": "Yoon&Company Inc.",
+                "type": "ORG",
+                "mentions": 3
+            },
+            {
+                "data": "Bubble Up",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Nature",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "SF9",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Bubble TV",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Everyshow Inc",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Amazon",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Hulu",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Hayoung",
+                "type": "PERSON",
+                "mentions": 3
+            },
+            {
+                "data": "Jong-ho Yoon",
+                "type": "PERSON",
+                "mentions": 2
+            },
+            {
+                "data": "Soochul Park",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Sohee",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Youngbin",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Jaemin Ryu",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Saeyoung",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "10\u00d715\u2019",
+                "type": "TIME",
+                "mentions": 1
+            }
+        ],
+        "sentiment": {
+            "positive": 0.043317348,
+            "negative": 0.043826796,
+            "neutral": 0.9128558
+        },
+        "summary": "\n\n Exec Producer: Jaemin Ryu\n\n Writer: Saeyoung Hayoung decides to not go to college after high school but start working to live different life. \n\nCompany name: Yoon&Company Inc.\n\n Company Profile:\n\n Yoon&Company Inc. was established in September 2016 by Yoon Jong-Ho who was the formal CEO of Everyshow Inc.. As a multimedia entertainment company, Yoon&Company Inc. is producing and licensing a variety of TV shows from drama, movie to documentary networking mainly with Amazon, Hulu, etc..",
+        "translation": "",
+        "locations": [],
+        "reprint": false,
+        "places": null
+    },
+    {
+        "url": "https://www.yardbarker.com/nfl/articles/wilsons_near_perfect_day_spearheads_jets_victory_in_green_bay/s1_16703_35680925",
+        "authorsByline": "Max Schneider",
+        "articleId": "d5dbefc64cc14f38a2ded00262e09308",
+        "clusterId": "da66c9bebb6f4673842195a83ccbb85d",
+        "source": {
+            "domain": "yardbarker.com"
+        },
+        "imageUrl": "https://prod-origin.yardbarker.com/images/yb_white_on_black_medium.jpg",
+        "country": "us",
+        "language": "en",
+        "pubDate": "2021-08-22T20:03:21+00:00",
+        "addDate": "2021-08-24T18:14:35.561856+00:00",
+        "refreshDate": "2021-08-24T18:14:35.561856+00:00",
+        "score": 1.0,
+        "title": "Wilson's Near-Perfect Day Spearheads Jets Victory in Green Bay",
+        "description": "Wilson's Near-Perfect Day Spearheads Jets Victory in Green Bay  Yardbarker",
+        "content": "There have only been two preseason games, both against backup defenses, but Wilson continues to check all the boxes. He\u2019s been the most productive of the five first-round rookie quarterbacks thus far and doesn\u2019t look fazed by the overall speed of the game. He\u2019s 5-for-5 for 94 yards on throws 10-plus yards down the field this preseason. It might be easy to overreact in August, but it\u2019s hard not to get excited by the kid.\n\nThe Jets made a splash this offseason, signing Corey Davis to a three-year, $37.5M deal. Through two preseason games, it\u2019s clear his workload is going to reflect that salary. Davis is unabashedly the number one wide receiver in New York.\n\nMore than half of Wilson\u2019s targets went his way on Saturday, which he parlayed into four catches for 70 yards. The Jets have unleashed the full route tree early, too. Just yesterday, Davis was targeted on a bubble screen, a post, a curl, a short out, a crossing route and a double move. He\u2019s been the premier target on third downs as well. Elijah Moore has dazzled in training camp and hasn\u2019t played in either preseason game, but it\u2019s hard to imagine he\u2019ll be able to usurp Davis as Wilson\u2019s top target.\n\nIt was Kroft, however, not Davis, that was the recipient of both touchdown passes on Saturday. The newly-signed tight end from the Buffalo Bills has been taking first-team snaps throughout camp and finally showed what his role can be at its best in this offense. He made a great catch in the seam and held onto the ball through contact for the first touchdown from 18 yards out. On the very next drive, he caught a short pass and made a man miss before plowing his way in for the score. Kroft is already a better blocker than Chris Herndon, and his performance in the passing game yesterday likely supplanted his status as the top tight end on the roster.\n\nThe Packers sat 32 players yesterday, including all of their offensive starters. Aaron Rodgers and Jordan Love were among the 32. So when Green Bay trotted out Kurt Benkert at quarterback, things figured to be a cake walk for the Jets starting defense. Instead, Benkert and the backup offense marched right down the field on two of their first three drives for touchdowns. AJ Dillon had his way in the run game, rushing four times for 28 yards. Malik Taylor caught four passes for 66 yards. There were missed tackles, penalties and four-man rushes that didn\u2019t sniff the pocket.\n\nStill, the Jets\u2019 starting unit was missing quite a few pieces due to injury. Lawson is done for the year, but Quinnen Williams, Sheldon Rankins, Blessuan Austin and Vinny Curry all missed Saturday\u2019s game due to injury. Lamarcus Joyner didn\u2019t play for personal reasons. Jarrad Davis suffered an ankle injury in the second quarter. Isaiah Dunn and Tanzel Smart were forced into starting reps and struggled to hold their own. Things are going to get better as this group gets healthier. The backups pitching a shutout in the second half should earn some guys more playing time and patch up some of the holes. But if this defense is going to be competitive after losing Lawson, Saleh is going to have to work some magic.",
+        "medium": "Article",
+        "labels": [],
+        "matchedAuthors": [],
+        "claim": "",
+        "verdict": "",
+        "keywords": [
+            {
+                "name": "first",
+                "weight": 0.06758053
+            },
+            {
+                "name": "more playing time",
+                "weight": 0.06504377
+            },
+            {
+                "name": "Saturday",
+                "weight": 0.059126854
+            },
+            {
+                "name": "touchdowns",
+                "weight": 0.05902395
+            },
+            {
+                "name": "injury",
+                "weight": 0.057233945
+            },
+            {
+                "name": "missed tackles",
+                "weight": 0.052821677
+            },
+            {
+                "name": "either preseason game",
+                "weight": 0.052618887
+            },
+            {
+                "name": "two preseason games",
+                "weight": 0.052618887
+            },
+            {
+                "name": "backup defenses",
+                "weight": 0.051657572
+            },
+            {
+                "name": "Saturday\u2019s game",
+                "weight": 0.050742883
+            }
+        ],
+        "topics": [
+            {
+                "name": "NFL"
+            },
+            {
+                "name": "Football"
+            }
+        ],
+        "categories": [
+            {
+                "name": "Sports"
+            }
+        ],
+        "entities": [
+            {
+                "data": "Jets",
+                "type": "ORG",
+                "mentions": 4
+            },
+            {
+                "data": "the Buffalo Bills",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Packers",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Green Bay",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "New York",
+                "type": "GPE",
+                "mentions": 1
+            },
+            {
+                "data": "Davis",
+                "type": "PERSON",
+                "mentions": 4
+            },
+            {
+                "data": "Wilson",
+                "type": "PERSON",
+                "mentions": 3
+            },
+            {
+                "data": "Kroft",
+                "type": "PERSON",
+                "mentions": 2
+            },
+            {
+                "data": "Kurt Benkert",
+                "type": "PERSON",
+                "mentions": 2
+            },
+            {
+                "data": "Lawson",
+                "type": "PERSON",
+                "mentions": 2
+            },
+            {
+                "data": "Corey Davis",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Elijah Moore",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Chris Herndon",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Aaron Rodgers",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Jordan Love",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "AJ Dillon",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Malik Taylor",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Quinnen Williams",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Sheldon Rankins",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Blessuan Austin",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Vinny Curry",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Lamarcus Joyner",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Jarrad Davis",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Isaiah Dunn",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Tanzel Smart",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Saleh",
+                "type": "PERSON",
+                "mentions": 1
+            }
+        ],
+        "sentiment": {
+            "positive": 0.16259009,
+            "negative": 0.04949439,
+            "neutral": 0.7879155
+        },
+        "summary": "There have only been two preseason games, both against backup defenses, but Wilson continues to check all the boxes. He\u2019s been the most productive of the five first-round rookie quarterbacks thus far and doesn\u2019t look fazed by the overall speed of the game. Instead, Benkert and the backup offense marched right down the field on two of their first three drives for touchdowns. Lawson is done for the year, but Quinnen Williams, Sheldon Rankins, Blessuan Austin and Vinny Curry all missed Saturday\u2019s game due to injury.",
+        "translation": "",
+        "locations": [],
+        "reprint": false,
+        "places": null
+    },
+    {
+        "url": "https://www.ansa.it/sito/videogallery/mondo/2021/08/22/messico-colpito-dalluragano-grace-almeno-otto-i-morti_91947b5b-b108-4800-b4cb-2efed3988892.html",
+        "authorsByline": "",
+        "articleId": "204d5bb060d94f41889e0be991702842",
+        "clusterId": "9d81ee43fb384ce9ada96890781b8fee",
+        "source": {
+            "domain": "ansa.it"
+        },
+        "imageUrl": "https://www.ansa.it/webimages/img_700/2021/8/22/9b1c79feaca0a2406d7af304a84be102.jpg",
+        "country": "it",
+        "language": "it",
+        "pubDate": "2021-08-22T09:21:00+00:00",
+        "addDate": "2021-08-24T18:14:35.562618+00:00",
+        "refreshDate": "2021-08-24T18:14:35.562618+00:00",
+        "score": 1.0,
+        "title": "Messico colpito dall'uragano Grace: almeno otto i morti - Mondo",
+        "description": "Messico colpito dall'uragano Grace: almeno otto i morti - Mondo  Agenzia ANSA",
+        "content": "",
+        "medium": "Article",
+        "labels": [],
+        "matchedAuthors": [],
+        "claim": "",
+        "verdict": "",
+        "keywords": [],
+        "topics": [],
+        "categories": [],
+        "entities": [],
+        "summary": "",
+        "translation": "",
+        "locations": [],
+        "reprint": false,
+        "places": null
+    },
+    {
+        "url": "https://www.johnsoncitypress.com/the-salvation-army-responds-to-tropical-storm-henri/article_5c6011df-a707-5314-adac-a81865663d66.html",
+        "authorsByline": "The Salvation Army",
+        "articleId": "8f99c8b6d989473baf1a5f13c44a6a5a",
+        "clusterId": "f97a2d6f96874f80928f6457d69d59a6",
+        "source": {
+            "domain": "johnsoncitypress.com"
+        },
+        "imageUrl": "https://bloximages.newyork1.vip.townnews.com/johnsoncitypress.com/content/tncms/assets/v3/editorial/f/35/f35a4a0b-068c-50af-b7f6-66f22f36364a/603945659782c.image.jpg?crop=1029%2C579%2C235%2C0&resize=1029%2C579&order=crop%2Cresize",
+        "country": "us",
+        "language": "en",
+        "pubDate": "2021-08-22T19:18:00+00:00",
+        "addDate": "2021-08-24T18:14:35.562841+00:00",
+        "refreshDate": "2021-08-24T18:14:35.562841+00:00",
+        "score": 1.0,
+        "title": "The Salvation Army Responds to Tropical Storm Henri",
+        "description": "The Salvation Army Responds to Tropical Storm Henri  Johnson City Press (subscription)",
+        "content": "ALEXANDRIA, Va., Aug. 22, 2021 /PRNewswire/ -- The Salvation Army is activating its Emergency Disaster Services personnel to meet the immediate needs of survivors and first responders affected by Tropical Storm Henri, which made landfall on August 22 in along the south coast of Rhode Island.\n\n\"We are doing everything in our power to respond efficiently and effectively to the impacts made by Tropical Storm Henri,\" said Emergency Disaster Services Coordinator of The Salvation Army's USA Eastern Territory, Robert Myers III. \"With the continued generosity of the public, The Salvation Army will remain on the ground serving those affected by the storm for however long our services are needed.\"\n\nIn addition to high winds, Henri is expected to bring heavy, sustained rain and storm surge that could create severe flooding conditions. This could limit the ability for relief teams to reach those in need, including sustained water damage to structures that obstruct access to impacted areas.\n\nAs a community-based organization, The Salvation Army is uniquely positioned to respond with in-depth understanding of the area's needs. In preparation for response efforts, several steps have been taken to serve those impacted:\n\u2022 Incident Command centers have been established in and .\n\u2022 Mobile feeding units are being prepared for deployment to serve food, drinks, and emotional and spiritual care to survivors and first responders.\n\u2022 Each mobile feeding unit can serve 500 to 1,500 meals per day.\n\u2022 Fixed Corps locations are being prepared to provide feeding and other needed support to those affected.\n\nIn addition, Salvation Army disaster personnel are collaborating with federal, state, and local emergency management agencies and other partners to respond to and monitor ongoing impacts and evolve response efforts as needed.\n\nThe storm comes at the beginning of what is predicted to be a busy hurricane season. In light of the pandemic, The Salvation Army has evolved service delivery with extra precautions such as social distancing at food distribution sites, adapted feeding models and updated personal protective equipment requirements.\n\nA digital media kit with current and historical Emergency Disaster Services assets can be found here.\n\nFor more information on The Salvation Army's continued response, visit salvationarmyusa.org or disaster.salvationarmyusa.org.\n\nTo make a financial gift to support ongoing disaster relief efforts:\n\nThe Salvation Army annually helps 30 million Americans overcome poverty, addiction, and economic hardships through a range of social services. By providing food for the hungry, emergency relief for disaster survivors, rehabilitation for those suffering from drug and alcohol abuse, and clothing and shelter for people in need, The Salvation Army is doing the most good at 7,600 centers of operation around the country. During times of disaster, 100 percent of designated donations to The Salvation Army are used for immediate response and long-term efforts. In the first-ever listing of \"America's Favorite Charities\" by The Chronicle of Philanthropy, The Salvation Army ranked as the country's largest privately funded, direct-service nonprofit. For more information, visit SalvationArmyUSA.org. Follow us on Twitter @SalvationArmyUS and #DoingTheMostGood.",
+        "medium": "Article",
+        "labels": [],
+        "matchedAuthors": [],
+        "claim": "",
+        "verdict": "",
+        "keywords": [
+            {
+                "name": "Salvation Army",
+                "weight": 0.09520822
+            },
+            {
+                "name": "Salvation Army disaster personnel",
+                "weight": 0.09203672
+            },
+            {
+                "name": "social services",
+                "weight": 0.08292755
+            },
+            {
+                "name": "service delivery",
+                "weight": 0.07421483
+            },
+            {
+                "name": "need",
+                "weight": 0.07206738
+            },
+            {
+                "name": "ongoing disaster relief efforts",
+                "weight": 0.07174964
+            },
+            {
+                "name": "food distribution sites",
+                "weight": 0.06768646
+            },
+            {
+                "name": "response efforts",
+                "weight": 0.0671031
+            },
+            {
+                "name": "updated personal protective equipment requirements",
+                "weight": 0.067001395
+            },
+            {
+                "name": "impacted areas",
+                "weight": 0.066889785
+            }
+        ],
+        "topics": [
+            {
+                "name": "Salvation Army"
+            }
+        ],
+        "categories": [
+            {
+                "name": "Weather"
+            }
+        ],
+        "entities": [
+            {
+                "data": "America's Favorite Charities",
+                "type": "WORK_OF_ART",
+                "mentions": 1
+            },
+            {
+                "data": "Tropical Storm Henri",
+                "type": "EVENT",
+                "mentions": 2
+            },
+            {
+                "data": "Henri",
+                "type": "EVENT",
+                "mentions": 1
+            },
+            {
+                "data": "Americans",
+                "type": "NORP",
+                "mentions": 1
+            },
+            {
+                "data": "The Salvation Army",
+                "type": "ORG",
+                "mentions": 11
+            },
+            {
+                "data": "Emergency Disaster Services",
+                "type": "ORG",
+                "mentions": 3
+            },
+            {
+                "data": "Fixed Corps",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "The Chronicle of Philanthropy",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "@SalvationArmyUS",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "ALEXANDRIA",
+                "type": "GPE",
+                "mentions": 1
+            },
+            {
+                "data": "Va.",
+                "type": "GPE",
+                "mentions": 1
+            },
+            {
+                "data": "Rhode Island",
+                "type": "GPE",
+                "mentions": 1
+            },
+            {
+                "data": "USA",
+                "type": "GPE",
+                "mentions": 1
+            },
+            {
+                "data": "Robert Myers III",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Eastern Territory",
+                "type": "LOC",
+                "mentions": 1
+            }
+        ],
+        "sentiment": {
+            "positive": 0.17898655,
+            "negative": 0.014018097,
+            "neutral": 0.80699533
+        },
+        "summary": "This could limit the ability for relief teams to reach those in need, including sustained water damage to structures that obstruct access to impacted areas. \n\nIn addition, Salvation Army disaster personnel are collaborating with federal, state, and local emergency management agencies and other partners to respond to and monitor ongoing impacts and evolve response efforts as needed. In light of the pandemic, The Salvation Army has evolved service delivery with extra precautions such as social distancing at food distribution sites, adapted feeding models and updated personal protective equipment requirements. \n\nTo make a financial gift to support ongoing disaster relief efforts:\n\nThe Salvation Army annually helps 30 million Americans overcome poverty, addiction, and economic hardships through a range of social services.",
+        "translation": "",
+        "locations": [],
+        "reprint": true,
+        "places": null
+    },
+    {
+        "url": "https://floridianpress.com/2021/08/kat-cammack-jabs-pelosi-over-naive-response-to-afghanistan-debacle/",
+        "authorsByline": "",
+        "articleId": "5b00470edd59432ca74b38270c5502ec",
+        "clusterId": "eea6fa01adf649f4bc756fb89cf1600a",
+        "source": {
+            "domain": "floridianpress.com"
+        },
+        "imageUrl": "https://floridianpress.com/wp-content/uploads/2021/07/kat-scaled-e1627419272924.jpg",
+        "country": "us",
+        "language": "en",
+        "pubDate": "2021-08-22T19:26:51+00:00",
+        "addDate": "2021-08-24T18:14:35.563459+00:00",
+        "refreshDate": "2021-08-24T18:14:35.563459+00:00",
+        "score": 1.0,
+        "title": "Kat Cammack Jabs Pelosi Over Naive Response to Afghanistan Debacle",
+        "description": "Kat Cammack Jabs Pelosi Over Naive Response to Afghanistan Debacle  The Floridian",
+        "content": "As the Biden Administration has seemingly accepted the Taliban\u2019s takeover of Afghanistan, Republican congressional members have had a field day with bashing Biden over the Afghan debacle, including US Rep. Kat Cammack (R-FL), who is going after House Speaker Nancy Pelosi (D-CA) for her responsibility in the chaos.\n\nIn a recent interview with Fox News, Cammack disclosed details of a meeting she attended with Secretary of Defense Austin, Secretary of State Blinken, and General Milley. Speaker Pelosi was reportedly vocal in the Q&A portion of the meeting, saying of the Americans left behind in Afghanistan, \u201cEverything sounds like it\u2019s in a good place. Everyone just needs to get to the airport.\u201d\n\nCammack told Fox that it \u201cspeaks volumes of not just the administration, and how they handled this utter, total failure, but Democrat leadership in general,\u201d adding that \u201cWhen the Speaker of the House is saying that \u2018Everything should be in a good place, everybody just needs to get to the airport\u2019 it took me about 10 minutes just to get my jaw up off the desk.\u201d\n\n\u201cI couldn\u2019t believe that when we have left Americans behind, when we have one of the worst examples of an American military failure, no contingency plans in place, and the Speaker of the House is saying \u2018everything seems fine\u2019 Madam Speaker, you can\u2019t just take an Uber to the airport! Not a casual stroll through the street\u201d stated Rep. Cammack on Rep. Pelosi.\n\nCammack also commented on the mixed messaging over the current status of the region, claiming that some sources are telling people to stay in place while mainstream media has been naive about the threat posed by the Taliban.\n\nCammack reported that her office is working on getting 187 Americans home, and they are just from Florida\u2019s third congressional district alone.\n\nHowever, according to Cammack, the State Department is still telling Americans to go to the airport .\u201d You wanna talk about mixed messaging,\u201d concluded Cammack",
+        "medium": "Article",
+        "labels": [],
+        "matchedAuthors": [],
+        "claim": "",
+        "verdict": "",
+        "keywords": [
+            {
+                "name": "House Speaker Nancy Pelosi",
+                "weight": 0.10412951
+            },
+            {
+                "name": "Rep. Cammack",
+                "weight": 0.10270174
+            },
+            {
+                "name": "US Rep. Kat Cammack",
+                "weight": 0.09888808
+            },
+            {
+                "name": "Kat Cammack",
+                "weight": 0.0956803
+            },
+            {
+                "name": "Speaker Pelosi",
+                "weight": 0.09462995
+            },
+            {
+                "name": "Cammack",
+                "weight": 0.09278139
+            },
+            {
+                "name": "place",
+                "weight": 0.082241446
+            },
+            {
+                "name": "Rep. Pelosi",
+                "weight": 0.07632449
+            },
+            {
+                "name": "House",
+                "weight": 0.07068025
+            },
+            {
+                "name": "Americans",
+                "weight": 0.06786147
+            }
+        ],
+        "topics": [
+            {
+                "name": "Afghanistan"
+            },
+            {
+                "name": "Nancy Pelosi"
+            }
+        ],
+        "categories": [
+            {
+                "name": "Politics"
+            }
+        ],
+        "entities": [
+            {
+                "data": "Americans",
+                "type": "NORP",
+                "mentions": 5
+            },
+            {
+                "data": "Republican",
+                "type": "NORP",
+                "mentions": 1
+            },
+            {
+                "data": "Afghan",
+                "type": "NORP",
+                "mentions": 1
+            },
+            {
+                "data": "R",
+                "type": "NORP",
+                "mentions": 1
+            },
+            {
+                "data": "D",
+                "type": "NORP",
+                "mentions": 1
+            },
+            {
+                "data": "Democrat",
+                "type": "NORP",
+                "mentions": 1
+            },
+            {
+                "data": "House",
+                "type": "ORG",
+                "mentions": 3
+            },
+            {
+                "data": "Taliban",
+                "type": "ORG",
+                "mentions": 2
+            },
+            {
+                "data": "the Biden Administration",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Fox News",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Defense",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "State",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Fox",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "the State Department",
+                "type": "ORG",
+                "mentions": 1
+            },
+            {
+                "data": "Afghanistan",
+                "type": "GPE",
+                "mentions": 2
+            },
+            {
+                "data": "FL",
+                "type": "GPE",
+                "mentions": 2
+            },
+            {
+                "data": "US",
+                "type": "GPE",
+                "mentions": 1
+            },
+            {
+                "data": "CA",
+                "type": "GPE",
+                "mentions": 1
+            },
+            {
+                "data": "Kat Cammack",
+                "type": "PERSON",
+                "mentions": 8
+            },
+            {
+                "data": "Nancy Pelosi",
+                "type": "PERSON",
+                "mentions": 3
+            },
+            {
+                "data": "Biden",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Austin",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Blinken",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Milley",
+                "type": "PERSON",
+                "mentions": 1
+            },
+            {
+                "data": "Uber",
+                "type": "PRODUCT",
+                "mentions": 1
+            },
+            {
+                "data": "about 10 minutes",
+                "type": "TIME",
+                "mentions": 1
+            }
+        ],
+        "sentiment": {
+            "positive": 0.05843315,
+            "negative": 0.46197215,
+            "neutral": 0.47959477
+        },
+        "summary": "As the Biden Administration has seemingly accepted the Taliban\u2019s takeover of Afghanistan, Republican congressional members have had a field day with bashing Biden over the Afghan debacle, including US Rep. Kat Cammack (R-FL), who is going after House Speaker Nancy Pelosi (D-CA) for her responsibility in the chaos. Everyone just needs to get to the airport.\u201d\n\nCammack told Fox that it \u201cspeaks volumes of not just the administration, and how they handled this utter, total failure, but Democrat leadership in general,\u201d adding that \u201cWhen the Speaker of the House is saying that \u2018Everything should be in a good place, everybody just needs to get to the airport\u2019 it took me about 10 minutes just to get my jaw up off the desk.\u201d\n\n\u201cI couldn\u2019t believe that when we have left Americans behind, when we have one of the worst examples of an American military failure, no contingency plans in place, and the Speaker of the House is saying \u2018everything seems fine\u2019 Madam Speaker, you can\u2019t just take an Uber to the airport! Not a casual stroll through the street\u201d stated Rep. Cammack on Rep. Pelosi. \n\nCammack also commented on the mixed messaging over the current status of the region, claiming that some sources are telling people to stay in place while mainstream media has been naive about the threat posed by the Taliban.\n\nCammack reported that her office is working on getting 187 Americans home, and they are just from Florida\u2019s third congressional district alone.\n\nHowever, according to Cammack, the State Department is still telling Americans to go to the airport .\u201d",
+        "translation": "",
+        "locations": [],
+        "reprint": false,
+        "places": null
+    }
+]
