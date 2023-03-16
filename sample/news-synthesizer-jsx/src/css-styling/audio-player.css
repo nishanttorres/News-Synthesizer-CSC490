@@ -5,6 +5,14 @@
     box-shadow: 0 28px 28px rgba(0, 0, 0, 0.2);
     margin: auto;
     color: var(--white);
+    justify-self: center;
+    align-self: center;
+}
+
+.buttons-audio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 button {
@@ -12,6 +20,7 @@ button {
     border: none;
     cursor: pointer;
 }
+
 
 .image-audio {
     border-radius: 8px;
@@ -21,21 +30,12 @@ button {
     width: 200px;
 }
 
-.progress {
+
+.audio-player .progress {
     display: flex;
     justify-content: space-between;
     width: 25%;
     margin: 0 auto 15px;
-}
-
-.audio-player .prev svg,
-.audio-player .next svg,
-.audio-player .play svg,
-.audio-player .pause svg {
-    display: flex;
-    justify-content: space-between;
-    width: 75%;
-    margin: 5 auto 5px;
 }
 
 .audio-player .back15 svg,

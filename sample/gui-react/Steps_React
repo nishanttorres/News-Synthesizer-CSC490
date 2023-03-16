@@ -1,9 +1,0 @@
-Downloading the nvm
-
-wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
-
-
-
-Installing node.js
-
-nvm install 18.14.2 or whatever version you want
