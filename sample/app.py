@@ -4,6 +4,9 @@ import openai
 from text_processor import process_text
 from mimic3 import synthesize_speech
 
+#process_text() from text_processor.py module
+#synthesize_speech() from mimic3.py module
+
 # Set up your API keys
 PERIGON_API_KEY = os.environ["PERIGON_API_KEY"]
 OPENAI_API_KEY = os.environ["OPENAI_API_KEY"]
@@ -20,7 +23,7 @@ def fetch_articles(topic, num_articles=5):
 
 def summarize_article(article):
     prompt = f"Please provide a brief summary of the following article:\n\nTitle: {article['title']}\n\nContent: {article['content']}\n\n"
-    response = openai.Completion.create(engine="davinci-codex", prompt=prompt, max_tokens=50)
+    response = openai.Completion.create(engine="davinci-codex", prompt=prompt, max_tokens=100)
     return response.choices[0].text.strip()
 
 def main():
