@@ -1,10 +1,15 @@
-from flask import Flask, request
-from flask_cors import CORS
 import json
 import requests
+from flask import Flask, request
+from flask_cors import CORS
+from summarizer import summarize_article
 
 app = Flask(__name__)
 CORS(app)
+
+@app.route("/")
+def hello():
+    return"IM ALIVE"
 
 @app.route("/getArticles", methods=["POST"], strict_slashes=False)
 def add_filters():
@@ -28,8 +33,20 @@ def add_filters():
     
     with open("articles.json", "w") as outfile:
         json.dump(articles, outfile, indent=4)
+    
+    return "Success"
 
-    return "done"
+@app.route("/summarize")
+def summarize():
+    with open("articles.json", "r") as file:
+        articles = json.load(file)
+
+    summary = summarize_article(articles[0])
+
+    with open("summary.txt", "w") as outfile:
+        outfile.write(summary)
+
+    return summary
 
 if __name__ == "__main__":
     app.run(debug=True) 

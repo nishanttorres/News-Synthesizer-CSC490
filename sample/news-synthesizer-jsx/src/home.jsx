@@ -9,9 +9,16 @@ import './css-styling/home.css'
 
 const Home = ({ changePage }) => {
     
+    //summarize article
+    const summarize = () => {
+        APIService.summarize()
+        .catch(error => console.log('error', error))
+    }
+
     //sending dates, location, and category to flask
     const insertFilters = () =>{
         APIService.insertFilters(dateValue,locationValue,categoryValue)
+        .then(() => summarize())
         .catch(error => console.log('error', error))
     }
     

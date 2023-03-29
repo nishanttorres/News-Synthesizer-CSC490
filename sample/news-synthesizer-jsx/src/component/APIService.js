@@ -10,4 +10,10 @@ export default class APIService{
         .then(response => console.log(response))
         .catch(error => console.log(error))
     }
+
+    static summarize(){
+        return fetch('http://localhost:5000/summarize')
+        .then(response => console.log(response))
+        .catch(error => console.log(error))
+    }
 }
