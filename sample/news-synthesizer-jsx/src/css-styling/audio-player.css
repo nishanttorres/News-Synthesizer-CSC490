@@ -1,7 +1,8 @@
-.audio-player .image-audio {
+.image-audio {
+    background-color: rgb(0, 155, 216);
     max-width: 350px;
     border-radius: 20px;
-    padding: 24px;
+    padding: 14px;
     box-shadow: 0 28px 28px rgba(0, 0, 0, 0.2);
     margin: auto;
     color: var(--white);
@@ -16,6 +17,7 @@
 }
 
 button {
+    color: rgb(4, 46, 82);
     background: none;
     border: none;
     cursor: pointer;
@@ -23,19 +25,19 @@ button {
 
 
 .image-audio {
-    border-radius: 8px;
+    border-radius: 20px;
     display: block;
     margin: auto;
-    height: 200px;
-    width: 200px;
+    height: 350px;
+    width: 300px;
 }
 
 
 .audio-player .progress {
     display: flex;
     justify-content: space-between;
-    width: 25%;
-    margin: 0 auto 15px;
+    width: 95%;
+    margin: 15px auto 15px;
 }
 
 .audio-player .back15 svg,

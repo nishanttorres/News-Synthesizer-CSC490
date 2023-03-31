@@ -8,10 +8,8 @@ h1 {
     background-size: 150px;
     position: relative;
     padding-top: 20px;
-    padding-bottom: 24%;
+    padding-bottom: 26%;
     margin: 0;
-    /* display: flex; */
-
     text-align: center;
 }
 
@@ -19,10 +17,12 @@ h1 {
     background-color: rgb(53, 129, 5);
     display: inline-table;
     padding: 20px;
+    box-shadow: 0 28px 28px rgba(0, 0, 0, 0.2);
+    border-radius: 30px;
 }
 
 .generate_button {
-    background-color: salmon;
+    background-color: #fa8072;
     padding: 16px;
     border-radius: 12px;
     color: white;
@@ -46,5 +46,14 @@ label {
 }
 
 button+button {
-    margin-left: 50px;
+
+    margin-left: 30px;
+}
+
+.buttons {
+    display: inline-flex;
+}
+
+.change_2_info {
+    width: 25px;
 }

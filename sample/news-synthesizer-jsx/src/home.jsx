@@ -1,7 +1,6 @@
 import DatePicker, { DateObject } from "react-multi-date-picker"
-import { useState, useMemo, useEffect } from 'react';
+import { useState } from 'react';
 import Select from 'react-select'
-import countryList from 'react-select-country-list'
 import './css-styling/home.css'
 import APIService from "./component/APIService";
 import { ReactComponent as Info } from './component/buttons-svg/info.svg';
@@ -90,7 +89,7 @@ const Home = ({ changePage, changeToInfo }) => {
                         <Info
                             className="logo"
                         />
-                        Info
+
                     </button>
                 </div>
 

@@ -1,8 +1,54 @@
-body {
-    background-color: white;
-    /* background-image: none; */
+.App {
+
+    padding-bottom: 450px;
+    background-color: rgb(4, 46, 82);
 }
 
 button :hover {
     box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.home-but-audio {
+    color: #00000000;
+}
+
+.audio-player {
+    background-color: rgba(4, 46, 82, 0.549);
+    max-width: 450px;
+    border-radius: 20px;
+    padding: 24px;
+    box-shadow: 0 28px 28px rgba(0, 0, 0, 0.2);
+    margin: auto;
+    color: var(--white);
+    justify-self: center;
+    align-self: center;
+}
+
+.audio-cover {
+
+    background-color: rgb(0, 155, 216);
+    max-width: 550px;
+    border-radius: 20px;
+    padding: 24px;
+    box-shadow: 0 28px 28px rgba(0, 0, 0, 0.2);
+    margin: auto;
+    color: var(--white);
+    justify-self: center;
+    align-self: center;
+    opacity: 0.7;
+}
+
+.top {
+    position: fixed;
+    width: 1500px;
+    z-index: 3;
+    opacity: 2;
+}
+
+.back {
+    position: fixed;
+    height: 850px;
+    width: 1600px;
+    opacity: 1.7;
+    z-index: 1;
 }

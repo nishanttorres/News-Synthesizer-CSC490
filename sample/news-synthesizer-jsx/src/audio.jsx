@@ -1,8 +1,9 @@
 import { useEffect, useRef, useState } from 'react';
 import AudioConfig from './component/audio-player/audio-player.component';
-import logo from './songs-logo/ezgif-4-96e7817a41.jpg';
+import logo from './songs-logo/leandra-rieger-31p65jYy7gE-unsplash.jpg';
 import song from './songs-logo/prototype.wav';
 import './css-styling/audio-home.css'
+import AudioBackground from './component/audio-player/audio-background';
 import { ReactComponent as Home } from './component/buttons-svg/home.svg'
 
 const AudioMain = ({ changeToHome }) => {
@@ -59,21 +60,31 @@ const AudioMain = ({ changeToHome }) => {
 
     return (
         <div className="App">
-            <button className='home_but_audio' onClick={changeToHome}>
-                <Home />
-                Home</button>
+            <div className='top'>
+                <button className='home-but-audio' onClick={changeToHome}>
+                    <Home />
+                    Home</button>
 
-            <AudioConfig
-                isPlaying={isPlaying}
-                onPlayPauseClick={setIsPlaying}
-                onFastF15Sec={skip15Sec}
-                onRevers15Sec={rewind15Sec}
-                logo={logo}
-                audioProgress={audioProgress}
-                duration={audioElement.current.duration}
-                scrollChangeHandler={onScroll}
-            />
+                <div className='audio-cover'>
+                    <div className='audio-player'>
+                        <AudioConfig
+                            isPlaying={isPlaying}
+                            onPlayPauseClick={setIsPlaying}
+                            onFastF15Sec={skip15Sec}
+                            onRevers15Sec={rewind15Sec}
+                            logo={logo}
+                            audioProgress={audioProgress}
+                            duration={audioElement.current.duration}
+                            scrollChangeHandler={onScroll}
+                        />
+                    </div>
+                </div>
+            </div>
+            <div className='back'>
+                <AudioBackground />
+            </div>
         </div>
+
     )
 }
 

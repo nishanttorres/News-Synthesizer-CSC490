@@ -4,17 +4,12 @@
     align-items: center;
     width: 96%;
     height: 1vh;
-    /****** center box
-	width: 300px;
-	height: 300px;
-	border: solid 1px #aaa;
-	******/
-}
-
-body {
     background-image: url(../songs-logo/capstone.png);
+    background-position: center;
     background-size: cover;
-    position: relative;
+
+    padding-bottom: 50%;
+
 }
 
 .loader-ball-2 {
@@ -28,7 +23,7 @@ body {
 .loader-ball-2>div {
     display: inline-block;
     width: 15px;
-    height: 15px;
+    height: 50px;
     border-radius: 100%;
     background-color: #eb5d06f0;
     margin: 25px 5px;

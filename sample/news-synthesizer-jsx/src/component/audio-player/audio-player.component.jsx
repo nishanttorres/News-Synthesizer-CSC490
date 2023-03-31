@@ -19,6 +19,7 @@ const AudioConfig = ({
 
     return (
         <div className="audio-player">
+
             <img
                 className="image-audio"
                 src={logo}
