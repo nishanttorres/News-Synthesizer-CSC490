@@ -1,4 +1,50 @@
+h1 {
+    color: white;
+}
+
+
 .home {
-    height: 100%;
-    background-color: #06455a;
+    background-image: url(../songs-logo/capstone.png);
+    background-size: 150px;
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 24%;
+    margin: 0;
+    /* display: flex; */
+
+    text-align: center;
+}
+
+.news_preferences {
+    background-color: rgb(53, 129, 5);
+    display: inline-table;
+    padding: 20px;
+}
+
+.generate_button {
+    background-color: salmon;
+    padding: 16px;
+    border-radius: 12px;
+    color: white;
+}
+
+.generate_button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    background-color: #4CAF50;
+}
+
+.date {
+    background-color: #4CAF50;
+}
+
+label {
+    color: white;
+}
+
+.change_2_info:hover {
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+button+button {
+    margin-left: 50px;
 }

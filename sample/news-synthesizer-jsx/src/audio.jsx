@@ -1,10 +1,11 @@
 import { useEffect, useRef, useState } from 'react';
 import AudioConfig from './component/audio-player/audio-player.component';
 import logo from './songs-logo/ezgif-4-96e7817a41.jpg';
-import song from './songs-logo/something-about-you-marilyn-ford-135781.mp3';
+import song from './songs-logo/prototype.wav';
+import './css-styling/audio-home.css'
+import { ReactComponent as Home } from './component/buttons-svg/home.svg'
 
-
-const AudioMain = () => {
+const AudioMain = ({ changeToHome }) => {
     const [audioProgress, setAudioProgress] = useState(0);
     const [isPlaying, setIsPlaying] = useState(false);
 
@@ -58,6 +59,9 @@ const AudioMain = () => {
 
     return (
         <div className="App">
+            <button className='home_but_audio' onClick={changeToHome}>
+                <Home />
+                Home</button>
 
             <AudioConfig
                 isPlaying={isPlaying}
