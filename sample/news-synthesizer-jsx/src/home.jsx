@@ -22,10 +22,10 @@ const Home = ({ changePage, changeToInfo }) => {
 
     const [dateValue, dateSetValue] = useState([new DateObject()]);
     const [locationValue, locationSetValue] = useState('');
-    const [categoryValue, categorySetValue] = useState('POLITICS');
+    const [categoryValue, categorySetValue] = useState('');
     const [audioLength, audioSetLength] = useState(5);
 
-    const options = useMemo(() => countryList().getData(), [])
+    const options = require('./data-s/countries.json')
     const audioLenOption = require('./data-s/length.json')
     const cat = require('./data-s/news_category.json')
 
