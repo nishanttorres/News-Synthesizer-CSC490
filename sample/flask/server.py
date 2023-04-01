@@ -3,6 +3,7 @@ import requests
 from flask import Flask, request
 from flask_cors import CORS
 from summarizer import summarize_article
+from text_processor import process_text
 
 app = Flask(__name__)
 CORS(app)
@@ -47,6 +48,15 @@ def summarize():
         outfile.write(summary)
 
     return summary
+
+@app.route("/process")
+def process():
+        process_text()
+        f = open("./script.txt", "r")
+        script = f.read()
+        f.close()
+        return script
+
 
 if __name__ == "__main__":
     app.run(debug=True) 

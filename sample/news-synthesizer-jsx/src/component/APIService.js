@@ -16,4 +16,10 @@ export default class APIService {
             .then(response => console.log(response))
             .catch(error => console.log(error))
     }
+
+    static process(){
+        return fetch('http://localhost:5000/process')
+            .then(response => console.log(response))
+            .catch(error => console.log(error))
+    }
 }

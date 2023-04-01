@@ -7,6 +7,13 @@ const Loading = ({ changeToHome, changeToAudio }) => {
     //summarize article
     const summarize = () => {
         APIService.summarize()
+            .then(() => process())
+            .catch(error => console.log('error', error))
+    }
+
+    //build script
+    const process = () => {
+        APIService.process()
             .catch(error => console.log('error', error))
     }
 
