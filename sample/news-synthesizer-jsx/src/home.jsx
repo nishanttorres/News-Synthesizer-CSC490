@@ -6,16 +6,10 @@ import APIService from "./component/APIService";
 import { ReactComponent as Info } from './component/buttons-svg/info.svg';
 
 const Home = ({ changePage, changeToInfo }) => {
-    //summarize article
-    const summarize = () => {
-        APIService.summarize()
-            .catch(error => console.log('error', error))
-    }
-
     //sending dates, location, category and audioLength to flask
     const insertFilters = () => {
         APIService.insertFilters(dateValue, locationValue, categoryValue, audioLength)
-            .then(() => summarize())
+            .then(() => changePage())
             .catch(error => console.log('error', error))
     }
 
@@ -29,7 +23,6 @@ const Home = ({ changePage, changeToInfo }) => {
     const cat = require('./data-s/news_category.json')
 
     const config = () => {
-        changePage();
         insertFilters();
     }
 

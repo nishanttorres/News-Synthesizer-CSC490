@@ -1,7 +1,16 @@
 import { ReactComponent as Home } from './component/buttons-svg/home.svg'
 import './css-styling/loading.css'
+import APIService from "./component/APIService";
 
 const Loading = ({ changeToHome, changeToAudio }) => {
+
+    //summarize article
+    const summarize = () => {
+        APIService.summarize()
+            .catch(error => console.log('error', error))
+    }
+
+    summarize();
 
     return (
         <div>
