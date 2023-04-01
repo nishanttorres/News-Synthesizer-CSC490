@@ -26,6 +26,14 @@ def add_filters():
         for x in data['category']:
             s += x['value']
 
+    date = data['date']
+    if len(date.split(",")) == 2:
+       list = date.split(",")
+       s += "&from=" + list[0].replace("/", "-")
+       s += "&to=" + list[1].replace("/", "-")
+    else:
+        s += "&to=" + date.replace("/", "-")
+
     API_KEY = "5d2a84b1-3580-4fc4-aee2-7d4e83e37f3c"
     url = f"https://api.goperigon.com/v1/all?apiKey={API_KEY}&sortBy=date{s}"
 
