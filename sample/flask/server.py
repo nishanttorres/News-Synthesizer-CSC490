@@ -4,6 +4,7 @@ from flask import Flask, request
 from flask_cors import CORS
 from summarizer import summarize_article
 from text_processor import process_text
+from mimic3 import synthesize_speech
 
 app = Flask(__name__)
 CORS(app)
@@ -55,15 +56,14 @@ def summarize():
     with open("summary.txt", "w") as outfile:
         outfile.write(summary)
 
-    return summary
+    return "Success"
 
 @app.route("/process")
 def process():
         process_text()
-        f = open("./script.txt", "r")
-        script = f.read()
-        f.close()
-        return script
+        synthesize_speech()
+
+        return "Success"
 
 
 if __name__ == "__main__":

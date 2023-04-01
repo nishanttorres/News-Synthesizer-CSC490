@@ -5,7 +5,7 @@ import json
 import openai
 from flask import request
 from text_processor import process_text
-# from mimic3 import synthesize_speech
+from mimic3 import synthesize_speech
 from summarizer import summarize_article
 # from perigon import fetch_articles
 

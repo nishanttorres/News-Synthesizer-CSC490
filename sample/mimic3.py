@@ -1,8 +1,8 @@
 import os
 
 
-def synthesize_speech(input_file, output_file):
-    f = open({input_file}, "r")
+def synthesize_speech():
+    f = open("./script.txt", "r")
     print(f.read())
-    cmd_str = f"cat script_test.txt | mimic3 --ssml > ./{output_file}"
+    cmd_str = "cat script.txt | mimic3 --ssml > ./news-synthesizer-jsx/src/songs-logo/news.wav"
     os.system(cmd_str)
