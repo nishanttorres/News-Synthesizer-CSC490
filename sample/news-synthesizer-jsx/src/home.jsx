@@ -8,12 +8,13 @@ import { ReactComponent as Info } from './component/buttons-svg/info.svg';
 const Home = ({ changePage, changeToInfo }) => {
     //sending dates, location, category and audioLength to flask
     const insertFilters = () => {
-        APIService.insertFilters(dateValue, locationValue, categoryValue, audioLength)
+        APIService.insertFilters(formattedDate, locationValue, categoryValue, audioLength)
             .then(() => changePage())
             .catch(error => console.log('error', error))
     }
 
     const [dateValue, dateSetValue] = useState([new DateObject()]);
+    const formattedDate = dateValue.toLocaleString();
     const [locationValue, locationSetValue] = useState('');
     const [categoryValue, categorySetValue] = useState('');
     const [audioLength, audioSetLength] = useState(5);
