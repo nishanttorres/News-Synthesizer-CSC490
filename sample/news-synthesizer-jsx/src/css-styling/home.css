@@ -5,9 +5,11 @@ h1 {
 
 .home {
     background-image: url(../songs-logo/capstone.png);
-    background-size: 100%;
+    background-size: 101.1%, 70%;
+    background-repeat: no-repeat;
     position: absolute;
     width: 100%;
+    height: 100%;
     padding-top: 20px;
     padding-bottom: 26%;
     margin: 0;

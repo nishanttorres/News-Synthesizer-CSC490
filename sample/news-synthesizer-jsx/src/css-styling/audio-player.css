@@ -10,6 +10,8 @@
 }
 
 .buttons-audio {
+    position: relative;
+    top: 5%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -24,15 +26,20 @@ button {
 
 
 .image-audio {
+    position: relative;
+    top: 5%;
+    height: 70%;
+    width: 50%;
     border-radius: 20px;
     display: block;
     margin: auto;
-    max-width: 50%;
-    max-height: 50%;
+    
 }
 
 
 .audio-player .progress {
+    position: relative;
+    top: 5%;
     display: flex;
     justify-content: space-between;
     width: 95%;

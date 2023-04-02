@@ -6,10 +6,15 @@
     height: 1vh;
     background-image: url(../songs-logo/capstone.png);
     background-position: center;
-    background-size: cover;
-
+    background-size: 101.1%;
+    background-repeat: no-repeat;
     padding-bottom: 50%;
+}
 
+.button_loading_home{
+    height: 40px;
+    width: 40px;
+    position: fixed;
 }
 
 .loader-ball-2 {
@@ -22,7 +27,7 @@
 
 .loader-ball-2>div {
     display: inline-block;
-    width: 15px;
+    width: 14px;
     height: 50px;
     border-radius: 100%;
     background-color: #eb5d06f0;
