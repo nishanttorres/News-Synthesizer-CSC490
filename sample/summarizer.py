@@ -19,5 +19,5 @@ openai.api_key = "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"
 
 def summarize_article(article):
     prompt = f"Please provide a brief summary of the following article:\n\nTitle: {article['title']}\n\nContent: {article['content']}\n\n"
-    response = openai.Completion.create(engine="text-davinci-003", prompt=prompt, max_tokens=100)
+    response = openai.Completion.create(engine="text-davinci-003", prompt=prompt, max_tokens=1000)
     return article['title']+ ":\n" + response.choices[0].text.strip()
