@@ -1,6 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Babylonica&family=Coustard:wght@900&display=swap');
+
+
 h1 {
+    font-family: 'Babylonica', cursive;
+    font-family: 'Coustard', serif;
     color: white;
 }
+
+label {
+    font-family: 'Babylonica', cursive;
+    font-family: 'Coustard', serif;
+}
+
+.request_failed {
+    background-image: url(../songs-logo/capstone.png);
+    background-size: 101.1%, 70%;
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    padding-top: 20px;
+    padding-bottom: 26%;
+    margin: 0;
+    text-align: center;
+    font-family: 'Babylonica', cursive;
+    font-family: 'Coustard', serif;
+    font-size: xxx-large;
+
+}
+
 
 
 .home {
@@ -41,6 +69,8 @@ h1 {
     padding: 16px;
     border-radius: 12px;
     color: white;
+    font-family: 'Babylonica', cursive;
+    font-family: 'Coustard', serif;
 }
 
 .generate_button:hover {
@@ -49,7 +79,7 @@ h1 {
 }
 
 .date {
-    background-color: #4CAF50;
+    background-color: #e89562f0;
 }
 
 label {

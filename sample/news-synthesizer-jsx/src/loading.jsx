@@ -1,24 +1,8 @@
-import { ReactComponent as Home } from './component/buttons-svg/home.svg'
+import { ReactComponent as Home } from './component/buttons-svg/home-black.svg'
 import './css-styling/loading.css'
 import APIService from "./component/APIService";
 
-const Loading = ({ changeToHome, changeToAudio }) => {
-
-    //summarize article
-    const summarize = () => {
-        APIService.summarize()
-            .then(() => process())
-            .catch(error => console.log('error', error))
-    }
-
-    //build script
-    const process = () => {
-        APIService.process()
-            .catch(error => console.log('error', error))
-    }
-
-    summarize();
-
+const Loading = ({ changeToHome }) => {
     return (
         <div>
             <div className='load'>
@@ -26,11 +10,8 @@ const Loading = ({ changeToHome, changeToAudio }) => {
                     className='button_loading_home'
                     onClick={changeToHome}>
                     <Home />
-                    Home
+
                 </button>
-                <button
-                    onClick={changeToAudio}
-                >Ready</button>
                 <div className="center-body">
                     <div className="loader-ball-2">
                         <div></div>

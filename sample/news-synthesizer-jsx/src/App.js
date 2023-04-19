@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import Home from './home'
 import Loading from './loading';
 import { Routes, Route, useNavigate } from 'react-router-dom';
@@ -6,7 +6,9 @@ import AudioMain from './audio';
 import InfoButton from './component/info-button/infoBut';
 
 
+
 const App = () => {
+
   const navigate = useNavigate();
   const changePage = () => {
     navigate('/loading')
@@ -26,8 +28,10 @@ const App = () => {
       <Route path="/" element={<Home
         changePage={changePage}
         changeToInfo={changeToInfo}
+        changeToAudio={changeToAudio}
+        changeToHome={changeToHome}
       />} />
-      <Route path="/loading" element={<Loading changeToHome={changeToHome} changeToAudio={changeToAudio} />} />
+      <Route path="/loading" element={<Loading changeToHome={changeToHome} />} />
       <Route path="/audio" element={<AudioMain changeToHome={changeToHome} />} />
       <Route path="/info" element={<InfoButton changeToHome={changeToHome} />} />
     </Routes>

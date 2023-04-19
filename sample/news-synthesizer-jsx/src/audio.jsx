@@ -29,16 +29,16 @@ const AudioMain = ({ changeToHome }) => {
         setAudioProgress(audioElement.current.currentTime);
     }
 
-    const skip15Sec = () => {
-        audioElement.current.currentTime += 15;
+    const skip10Sec = () => {
+        audioElement.current.currentTime += 10;
         setAudioProgress(audioElement.current.currentTime);
         if (audioElement.current.duration > audioElement.current.currentTime) {
             setIsPlaying(true);
         }
     }
 
-    const rewind15Sec = () => {
-        audioElement.current.currentTime -= 15;
+    const rewind10Sec = () => {
+        audioElement.current.currentTime -= 10;
         setAudioProgress(audioElement.current.currentTime);
         if (audioElement.current.duration > audioElement.current.currentTime) {
             setIsPlaying(true);
@@ -70,8 +70,8 @@ const AudioMain = ({ changeToHome }) => {
                         <AudioConfig
                             isPlaying={isPlaying}
                             onPlayPauseClick={setIsPlaying}
-                            onFastF15Sec={skip15Sec}
-                            onRevers15Sec={rewind15Sec}
+                            onFastF15Sec={skip10Sec}
+                            onRevers15Sec={rewind10Sec}
                             logo={logo}
                             audioProgress={audioProgress}
                             duration={audioElement.current.duration}
