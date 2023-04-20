@@ -5,6 +5,7 @@ from flask_cors import CORS
 from summarizer import summarize_article
 from text_processor import process_text
 from mimic3 import synthesize_speech
+from perigon import fetch_articles
 
 app = Flask(__name__)
 CORS(app)
@@ -14,7 +15,7 @@ def hello():
     return"IM ALIVE"
 
 @app.route("/getArticles", methods=["POST"], strict_slashes=False)
-def add_filters():
+def getArticles():
     
     data = request.json
     s = ""
@@ -35,14 +36,7 @@ def add_filters():
     else:
         s += "&to=" + date.replace("/", "-")
 
-    API_KEY = "5d2a84b1-3580-4fc4-aee2-7d4e83e37f3c"
-    url = f"https://api.goperigon.com/v1/all?apiKey={API_KEY}&sortBy=date{s}"
-
-    resp = requests.get(url)
-    articles = resp.json()["articles"]
-    
-    with open("articles.json", "w") as outfile:
-        json.dump(articles, outfile, indent=4)
+    fetch_articles(s)
     
     return "Success"
 

@@ -7,7 +7,7 @@ from flask import request
 from text_processor import process_text
 from mimic3 import synthesize_speech
 from summarizer import summarize_article
-# from perigon import fetch_articles
+from perigon import fetch_articles
 
 # # Set up your API keys
 # PERIGON_API_KEY = os.environ["PERIGON_API_KEY"]
