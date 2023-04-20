@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import AudioConfig from './component/audio-player/audio-player.component';
 import logo from './songs-logo/leandra-rieger-31p65jYy7gE-unsplash.jpg';
-import song from './songs-logo/prototype.wav';
+import song from './songs-logo/news.wav';
 import './css-styling/audio-home.css'
 import AudioBackground from './component/audio-player/audio-background';
 import { ReactComponent as Home } from './component/buttons-svg/home.svg'

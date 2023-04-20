@@ -19,30 +19,34 @@ const Home = ({ changePage, changeToInfo, changeToAudio, changeToHome }) => {
     const audioLenOption = require('./data-s/length.json')
     const cat = require('./data-s/news_category.json')
 
+    //get articles, summarize article, and create audio file
+    async function getAudio(){
+        return new Promise(async (resolve, reject) => {
+            try {
+                const filters = await APIService.insertFilters(
+                    formattedDate,
+                    locationValue,
+                    categoryValue,
+                    audioLength
+                );
+                const summary = await APIService.summarize();
+                const audio = await APIService.process();
+
+                console.log("Audio File Retrieved:", audio);
+                resolve(audio);
+            }catch(error){
+                reject(error);
+            }
+        });
+    } 
+
     const handleSubmit = async (event) => {
         event.preventDefault();
         setRequestStatus("pending"); // set status to "pending" when the form is submitted
 
-        // Testing code if audio is ready
-
-        // setTimeout(() => {
-        //     const isSuccess = Math.random() < 0.5; // simulate 50% chance of success
-        //     if (isSuccess) {
-        //         setRequestStatus("succeeded");
-        //     } else {
-        //         setRequestStatus("failed");
-        //     }
-        //     console.log(requestStatus)
-        // }, Math.floor(Math.random() * 5000));
-
         // Actual code if audio is ready
         try {
-            const response = await APIService.insertFilters(
-                formattedDate,
-                locationValue,
-                categoryValue,
-                audioLength
-            );
+            const response =  await getAudio();
 
             if (response.ok) {
                 setRequestStatus("succeeded");
