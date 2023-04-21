@@ -1,16 +1,16 @@
 import { useEffect, useRef, useState } from 'react';
 import AudioConfig from './component/audio-player/audio-player.component';
 import logo from './songs-logo/leandra-rieger-31p65jYy7gE-unsplash.jpg';
-import song from './songs-logo/news.wav';
+// import song from './songs-logo/news.wav';
 import './css-styling/audio-home.css'
 import AudioBackground from './component/audio-player/audio-background';
 import { ReactComponent as Home } from './component/buttons-svg/home.svg'
 
-const AudioMain = ({ changeToHome }) => {
+const AudioMain = ({ changeToHome, audio }) => {
     const [audioProgress, setAudioProgress] = useState(0);
     const [isPlaying, setIsPlaying] = useState(false);
 
-    const audioElement = useRef(new Audio(song));
+    const audioElement = useRef(new Audio(audio));
     const audioInterval = useRef();
 
     useEffect(() => {

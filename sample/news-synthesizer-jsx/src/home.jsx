@@ -20,7 +20,7 @@ const Home = ({ changePage, changeToInfo, changeToAudio, changeToHome }) => {
     const cat = require('./data-s/news_category.json')
 
     //get articles, summarize article, and create audio file
-    async function getAudio(){
+    async function getAudio() {
         return new Promise(async (resolve, reject) => {
             try {
                 const filters = await APIService.insertFilters(
@@ -34,11 +34,11 @@ const Home = ({ changePage, changeToInfo, changeToAudio, changeToHome }) => {
 
                 console.log("Audio File Retrieved:", audio);
                 resolve(audio);
-            }catch(error){
+            } catch (error) {
                 reject(error);
             }
         });
-    } 
+    }
 
     const handleSubmit = async (event) => {
         event.preventDefault();
@@ -46,7 +46,7 @@ const Home = ({ changePage, changeToInfo, changeToAudio, changeToHome }) => {
 
         // Actual code if audio is ready
         try {
-            const response =  await getAudio();
+            const response = await getAudio();
 
             if (response.ok) {
                 setRequestStatus("succeeded");
