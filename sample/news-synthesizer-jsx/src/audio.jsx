@@ -6,7 +6,8 @@ import './css-styling/audio-home.css'
 import AudioBackground from './component/audio-player/audio-background';
 import { ReactComponent as Home } from './component/buttons-svg/home.svg'
 
-const AudioMain = ({ changeToHome, audio }) => {
+const AudioMain = ({ changeToHome }) => {
+    const audio = useState('./songs-logo/news.wav')
     const [audioProgress, setAudioProgress] = useState(0);
     const [isPlaying, setIsPlaying] = useState(false);
 

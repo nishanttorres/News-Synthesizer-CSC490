@@ -4,7 +4,6 @@ import Loading from './loading';
 import { Routes, Route, useNavigate } from 'react-router-dom';
 import AudioMain from './audio';
 import InfoButton from './component/info-button/infoBut';
-import audio from './songs-logo/news.wav';
 
 
 
@@ -33,7 +32,7 @@ const App = () => {
         changeToHome={changeToHome}
       />} />
       <Route path="/loading" element={<Loading changeToHome={changeToHome} />} />
-      <Route path="/audio" element={<AudioMain changeToHome={changeToHome} audio={audio} />} />
+      <Route path="/audio" element={<AudioMain changeToHome={changeToHome} />} />
       <Route path="/info" element={<InfoButton changeToHome={changeToHome} />} />
     </Routes>
   );
