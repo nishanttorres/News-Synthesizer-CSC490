@@ -16,3 +16,30 @@ Download and install necessary dependencies according to the user manual. Launch
 
 # User Manual.
 ![image](https://user-images.githubusercontent.com/97568870/234950139-e9b7eadf-aa25-4b25-801a-10c89e677538.png)
+
+
+In order to run the front-end you need to download some dependencies:
+
+wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+
+Installing node.js
+
+nvm install 18.14.2 or whatever version you want
+
+Once complete you can change your cwd to news-sythesizer-jsx 
+download the necessary dependencies by typing:
+
+npm install
+
+It should automatically download all the dependecies. 
+If you want to download them separately you can use the following commands:
+
+npm install react-router-dom localforage match-sorter sort-by
+npm install --save react-multi-date-picker
+npm i --save react-select
+npm install react-select-country-list --save
+
+
+After you are done, you can start the front-end by typing
+
+npm start on the cli
