@@ -44,14 +44,11 @@ const Home = ({ changePage, changeToInfo, changeToAudio, changeToHome }) => {
         event.preventDefault();
         setRequestStatus("pending"); // set status to "pending" when the form is submitted
 
-        // Actual code if audio is ready
         try {
             const response = await getAudio();
 
             if (response.ok) {
                 setRequestStatus("succeeded");
-
-                changeToAudio();
             } else {
                 setRequestStatus("failed"); // set status to "failed" if response is not OK
             }
@@ -65,13 +62,13 @@ const Home = ({ changePage, changeToInfo, changeToAudio, changeToHome }) => {
             case "pending":
                 return <Loading changeToHome={changeToHome} />;
             case "succeeded":
-                return changeToAudio(); // replace with the actual response page
+                return changeToAudio();
             case "failed":
                 return <div className="request_failed">
                     Request failed
                     <br />
                     Refresh the page
-                </div>; // replace with appropriate error message
+                </div>;
             default:
                 return (
                     <div className="home">
