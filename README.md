@@ -22,7 +22,7 @@ Download and install necessary dependencies according to the user manual. Launch
 
 wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 
-Installing node.js
+### Installing node.js
 
 nvm install 18.14.2 or whatever version you want
 
@@ -43,3 +43,18 @@ npm install react-select-country-list --save<br />
 After you are done, you can start the front-end by typing
 
 npm start on the cli
+
+### Installing MIMIC 3 from source
+Clone the repository:
+`git clone https://github.com/mycroftAI/mimic3.git`
+
+Run the install script:
+`cd mimic3/
+./install.sh`
+
+A virtual environment will be created in `mimic3/.venv` and the `mycroft-mimic3-tts` Python module will be installed in editiable mode (`pip install -e`).
+
+Once installed, the following commands will be available in `.venv/bin`:
+- `mimic3`
+- `mimic3-server`
+- `mimic3-dowwnload`
