@@ -15,8 +15,6 @@ We are using [ChatGPT](https://openai.com/api/), [Mimic3](https://mycroft-ai.git
 Download and install necessary dependencies according to the user manual. Launch app.py which is located in the Sample directory.
 
 ## User Manual.
-![image](https://user-images.githubusercontent.com/97568870/234950139-e9b7eadf-aa25-4b25-801a-10c89e677538.png)
-
 
 ### Dependencies necessary for front-end:
 In terminal:
@@ -58,3 +56,6 @@ Once installed, the following commands will be available in `.venv/bin`:
 - `mimic3`
 - `mimic3-server`
 - `mimic3-dowwnload`
+
+### User manual in the app
+![image](https://user-images.githubusercontent.com/97568870/234950139-e9b7eadf-aa25-4b25-801a-10c89e677538.png)
