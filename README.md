@@ -18,7 +18,7 @@ Download and install necessary dependencies according to the user manual. Launch
 ![image](https://user-images.githubusercontent.com/97568870/234950139-e9b7eadf-aa25-4b25-801a-10c89e677538.png)
 
 
-In order to run the front-end you need to download some dependencies:
+# In order to run the front-end you need to download some dependencies:
 
 wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 
@@ -34,11 +34,11 @@ npm install
 It should automatically download all the dependecies. 
 If you want to download them separately you can use the following commands:
 
-npm install react-router-dom localforage match-sorter sort-by
-npm install --save react-multi-date-picker
-npm i --save react-select
-npm install react-select-country-list --save
-
+npm install react-router-dom localforage match-sorter sort-by <br />
+npm install --save react-multi-date-picker <br />
+npm i --save react-select<br /> 
+npm install react-select-country-list --save<br />
+<br />
 
 After you are done, you can start the front-end by typing
 
