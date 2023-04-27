@@ -14,43 +14,43 @@ We are using [ChatGPT](https://openai.com/api/), [Mimic3](https://mycroft-ai.git
 # Final Product
 Download and install necessary dependencies according to the user manual. Launch app.py which is located in the Sample directory.
 
-# User Manual.
+## User Manual.
 ![image](https://user-images.githubusercontent.com/97568870/234950139-e9b7eadf-aa25-4b25-801a-10c89e677538.png)
 
 
-# In order to run the front-end you need to download some dependencies:
-
-wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+### Dependencies necessary for front-end:
+In terminal:
+`wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash`
 
 ### Installing node.js
+In terminal:
+`nvm install 18.14.2` (or version of your choice)
 
-nvm install 18.14.2 or whatever version you want
-
-Once complete you can change your cwd to news-sythesizer-jsx 
+Once complete you can change your working directory to `news-sythesizer-jsx`
 download the necessary dependencies by typing:
 
-npm install
+`npm install`
 
 It should automatically download all the dependecies. 
 If you want to download them separately you can use the following commands:
 
-npm install react-router-dom localforage match-sorter sort-by <br />
-npm install --save react-multi-date-picker <br />
-npm i --save react-select<br /> 
-npm install react-select-country-list --save<br />
+`npm install react-router-dom localforage match-sorter sort-by` <br />
+`npm install --save react-multi-date-picker` <br />
+`npm i --save react-select`<br /> 
+`npm install react-select-country-list --save`<br />
 <br />
 
-After you are done, you can start the front-end by typing
+After you are done, you can start the front-end by:
 
-npm start on the cli
+`npm start`
 
 ### Installing MIMIC 3 from source
 Clone the repository:
 `git clone https://github.com/mycroftAI/mimic3.git`
 
 Run the install script:
-`cd mimic3/
-./install.sh`
+`cd mimic3/` <br>
+`./install.sh`
 
 A virtual environment will be created in `mimic3/.venv` and the `mycroft-mimic3-tts` Python module will be installed in editiable mode (`pip install -e`).
 
